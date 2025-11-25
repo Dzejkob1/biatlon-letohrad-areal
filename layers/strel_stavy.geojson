@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "strel_stavy",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.00155088495, "Shape_Area": 3.034e-08 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 16.516655269000069, 50.042546500000071 ], [ 16.516612139000074, 50.042534399000033 ], [ 16.516164859000071, 50.043111416000045 ], [ 16.516206894000049, 50.043124930000033 ], [ 16.516655269000069, 50.042546500000071 ] ] ] ] } }
+]
+}

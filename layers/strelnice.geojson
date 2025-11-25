@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "strelnice",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.00273139876, "Shape_Area": 4.3592e-07 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 16.516206894000049, 50.043124930000033 ], [ 16.51681157400003, 50.04331798700008 ], [ 16.517259113000023, 50.042740625000079 ], [ 16.516655269000069, 50.042546500000071 ], [ 16.516206894000049, 50.043124930000033 ] ] ] ] } }
+]
+}

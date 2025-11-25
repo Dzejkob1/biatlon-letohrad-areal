@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "poklad_oprava",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Shape_Leng": 0.03709800789, "Shape_Area": 6.934585e-05 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 16.510497087000033, 50.044924501000025 ], [ 16.523892251000063, 50.044832815000063 ], [ 16.523802257000057, 50.039648635000049 ], [ 16.510483618000023, 50.039725812000029 ], [ 16.510497087000033, 50.044924501000025 ] ] ] ] } }
+]
+}

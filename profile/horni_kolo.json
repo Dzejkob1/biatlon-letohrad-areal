@@ -1,0 +1,3482 @@
+[
+  {
+    "OBJECTID": "1",
+    "FIRST_DIST": "0",
+    "FIRST_Z": "406.3445"
+  },
+  {
+    "OBJECTID": "2",
+    "FIRST_DIST": "1.768026089",
+    "FIRST_Z": "406.3594"
+  },
+  {
+    "OBJECTID": "3",
+    "FIRST_DIST": "3.536180827",
+    "FIRST_Z": "406.3521"
+  },
+  {
+    "OBJECTID": "4",
+    "FIRST_DIST": "5.304206916",
+    "FIRST_Z": "406.3971"
+  },
+  {
+    "OBJECTID": "5",
+    "FIRST_DIST": "7.072267958",
+    "FIRST_Z": "406.4325"
+  },
+  {
+    "OBJECTID": "6",
+    "FIRST_DIST": "8.840387741",
+    "FIRST_Z": "406.4431"
+  },
+  {
+    "OBJECTID": "7",
+    "FIRST_DIST": "10.60841383",
+    "FIRST_Z": "406.4218"
+  },
+  {
+    "OBJECTID": "8",
+    "FIRST_DIST": "12.37656856",
+    "FIRST_Z": "406.413"
+  },
+  {
+    "OBJECTID": "9",
+    "FIRST_DIST": "14.14459465",
+    "FIRST_Z": "406.4319"
+  },
+  {
+    "OBJECTID": "10",
+    "FIRST_DIST": "15.9949197",
+    "FIRST_Z": "406.3887"
+  },
+  {
+    "OBJECTID": "11",
+    "FIRST_DIST": "17.84537307",
+    "FIRST_Z": "406.4164"
+  },
+  {
+    "OBJECTID": "12",
+    "FIRST_DIST": "19.69569812",
+    "FIRST_Z": "406.4297"
+  },
+  {
+    "OBJECTID": "13",
+    "FIRST_DIST": "21.54605762",
+    "FIRST_Z": "406.4513"
+  },
+  {
+    "OBJECTID": "14",
+    "FIRST_DIST": "23.39647653",
+    "FIRST_Z": "406.4453"
+  },
+  {
+    "OBJECTID": "15",
+    "FIRST_DIST": "25.24683604",
+    "FIRST_Z": "406.4211"
+  },
+  {
+    "OBJECTID": "16",
+    "FIRST_DIST": "27.09716108",
+    "FIRST_Z": "406.3631"
+  },
+  {
+    "OBJECTID": "17",
+    "FIRST_DIST": "28.94761446",
+    "FIRST_Z": "406.3778"
+  },
+  {
+    "OBJECTID": "18",
+    "FIRST_DIST": "30.7979395",
+    "FIRST_Z": "406.376"
+  },
+  {
+    "OBJECTID": "19",
+    "FIRST_DIST": "32.45261905",
+    "FIRST_Z": "406.4047"
+  },
+  {
+    "OBJECTID": "20",
+    "FIRST_DIST": "34.10733294",
+    "FIRST_Z": "406.4144"
+  },
+  {
+    "OBJECTID": "21",
+    "FIRST_DIST": "35.76210641",
+    "FIRST_Z": "406.3812"
+  },
+  {
+    "OBJECTID": "22",
+    "FIRST_DIST": "37.41678597",
+    "FIRST_Z": "406.3678"
+  },
+  {
+    "OBJECTID": "23",
+    "FIRST_DIST": "39.19402662",
+    "FIRST_Z": "406.4164"
+  },
+  {
+    "OBJECTID": "24",
+    "FIRST_DIST": "40.97123078",
+    "FIRST_Z": "406.4505"
+  },
+  {
+    "OBJECTID": "25",
+    "FIRST_DIST": "41.66453292",
+    "FIRST_Z": "406.4621"
+  },
+  {
+    "OBJECTID": "26",
+    "FIRST_DIST": "42.70390067",
+    "FIRST_Z": "406.4681"
+  },
+  {
+    "OBJECTID": "27",
+    "FIRST_DIST": "43.39629192",
+    "FIRST_Z": "406.4708"
+  },
+  {
+    "OBJECTID": "28",
+    "FIRST_DIST": "44.43519018",
+    "FIRST_Z": "406.4703"
+  },
+  {
+    "OBJECTID": "29",
+    "FIRST_DIST": "45.12782557",
+    "FIRST_Z": "406.4676"
+  },
+  {
+    "OBJECTID": "30",
+    "FIRST_DIST": "45.83367913",
+    "FIRST_Z": "406.4656"
+  },
+  {
+    "OBJECTID": "31",
+    "FIRST_DIST": "46.68589771",
+    "FIRST_Z": "406.4658"
+  },
+  {
+    "OBJECTID": "32",
+    "FIRST_DIST": "47.60515913",
+    "FIRST_Z": "406.4653"
+  },
+  {
+    "OBJECTID": "33",
+    "FIRST_DIST": "48.44518943",
+    "FIRST_Z": "406.4715"
+  },
+  {
+    "OBJECTID": "34",
+    "FIRST_DIST": "49.29498496",
+    "FIRST_Z": "406.4826"
+  },
+  {
+    "OBJECTID": "35",
+    "FIRST_DIST": "50.17150911",
+    "FIRST_Z": "406.4852"
+  },
+  {
+    "OBJECTID": "36",
+    "FIRST_DIST": "51.0500373",
+    "FIRST_Z": "406.4702"
+  },
+  {
+    "OBJECTID": "37",
+    "FIRST_DIST": "52.50905672",
+    "FIRST_Z": "406.4533"
+  },
+  {
+    "OBJECTID": "38",
+    "FIRST_DIST": "52.96173791",
+    "FIRST_Z": "406.4479"
+  },
+  {
+    "OBJECTID": "39",
+    "FIRST_DIST": "53.7373407",
+    "FIRST_Z": "406.4403"
+  },
+  {
+    "OBJECTID": "40",
+    "FIRST_DIST": "54.84519649",
+    "FIRST_Z": "406.4428"
+  },
+  {
+    "OBJECTID": "41",
+    "FIRST_DIST": "55.58390038",
+    "FIRST_Z": "406.4469"
+  },
+  {
+    "OBJECTID": "42",
+    "FIRST_DIST": "56.32246371",
+    "FIRST_Z": "406.4468"
+  },
+  {
+    "OBJECTID": "43",
+    "FIRST_DIST": "57.06133853",
+    "FIRST_Z": "406.4389"
+  },
+  {
+    "OBJECTID": "44",
+    "FIRST_DIST": "57.80043577",
+    "FIRST_Z": "406.4312"
+  },
+  {
+    "OBJECTID": "45",
+    "FIRST_DIST": "58.90863882",
+    "FIRST_Z": "406.4193"
+  },
+  {
+    "OBJECTID": "46",
+    "FIRST_DIST": "59.64776521",
+    "FIRST_Z": "406.4084"
+  },
+  {
+    "OBJECTID": "47",
+    "FIRST_DIST": "60.38629143",
+    "FIRST_Z": "406.4004"
+  },
+  {
+    "OBJECTID": "48",
+    "FIRST_DIST": "61.49304461",
+    "FIRST_Z": "406.4123"
+  },
+  {
+    "OBJECTID": "49",
+    "FIRST_DIST": "62.22947629",
+    "FIRST_Z": "406.424"
+  },
+  {
+    "OBJECTID": "50",
+    "FIRST_DIST": "62.59721035",
+    "FIRST_Z": "406.4267"
+  },
+  {
+    "OBJECTID": "51",
+    "FIRST_DIST": "63.31675161",
+    "FIRST_Z": "406.4253"
+  },
+  {
+    "OBJECTID": "52",
+    "FIRST_DIST": "64.03717182",
+    "FIRST_Z": "406.4205"
+  },
+  {
+    "OBJECTID": "53",
+    "FIRST_DIST": "65.1190467",
+    "FIRST_Z": "406.4042"
+  },
+  {
+    "OBJECTID": "54",
+    "FIRST_DIST": "65.84590217",
+    "FIRST_Z": "406.3875"
+  },
+  {
+    "OBJECTID": "55",
+    "FIRST_DIST": "66.25506968",
+    "FIRST_Z": "406.3786"
+  },
+  {
+    "OBJECTID": "56",
+    "FIRST_DIST": "67.18044239",
+    "FIRST_Z": "406.3597"
+  },
+  {
+    "OBJECTID": "57",
+    "FIRST_DIST": "68.58602198",
+    "FIRST_Z": "406.3382"
+  },
+  {
+    "OBJECTID": "58",
+    "FIRST_DIST": "69.83875543",
+    "FIRST_Z": "406.3347"
+  },
+  {
+    "OBJECTID": "59",
+    "FIRST_DIST": "71.29375976",
+    "FIRST_Z": "406.3266"
+  },
+  {
+    "OBJECTID": "60",
+    "FIRST_DIST": "72.74876019",
+    "FIRST_Z": "406.27"
+  },
+  {
+    "OBJECTID": "61",
+    "FIRST_DIST": "73.8928548",
+    "FIRST_Z": "406.155"
+  },
+  {
+    "OBJECTID": "62",
+    "FIRST_DIST": "75.03687594",
+    "FIRST_Z": "405.9833"
+  },
+  {
+    "OBJECTID": "63",
+    "FIRST_DIST": "76.87850016",
+    "FIRST_Z": "405.757"
+  },
+  {
+    "OBJECTID": "64",
+    "FIRST_DIST": "78.63840482",
+    "FIRST_Z": "405.7691"
+  },
+  {
+    "OBJECTID": "65",
+    "FIRST_DIST": "79.81156965",
+    "FIRST_Z": "405.6957"
+  },
+  {
+    "OBJECTID": "66",
+    "FIRST_DIST": "80.98479787",
+    "FIRST_Z": "405.4857"
+  },
+  {
+    "OBJECTID": "67",
+    "FIRST_DIST": "82.74841883",
+    "FIRST_Z": "405.1328"
+  },
+  {
+    "OBJECTID": "68",
+    "FIRST_DIST": "84.51196102",
+    "FIRST_Z": "405.0254"
+  },
+  {
+    "OBJECTID": "69",
+    "FIRST_DIST": "86.27558198",
+    "FIRST_Z": "405.0451"
+  },
+  {
+    "OBJECTID": "70",
+    "FIRST_DIST": "87.86670388",
+    "FIRST_Z": "404.8403"
+  },
+  {
+    "OBJECTID": "71",
+    "FIRST_DIST": "89.45790367",
+    "FIRST_Z": "404.7673"
+  },
+  {
+    "OBJECTID": "72",
+    "FIRST_DIST": "91.04902557",
+    "FIRST_Z": "404.7707"
+  },
+  {
+    "OBJECTID": "73",
+    "FIRST_DIST": "92.54106687",
+    "FIRST_Z": "404.7819"
+  },
+  {
+    "OBJECTID": "74",
+    "FIRST_DIST": "94.03303096",
+    "FIRST_Z": "404.7208"
+  },
+  {
+    "OBJECTID": "75",
+    "FIRST_DIST": "96.02171557",
+    "FIRST_Z": "404.595"
+  },
+  {
+    "OBJECTID": "76",
+    "FIRST_DIST": "98.01032371",
+    "FIRST_Z": "404.5444"
+  },
+  {
+    "OBJECTID": "77",
+    "FIRST_DIST": "99.99900833",
+    "FIRST_Z": "404.4674"
+  },
+  {
+    "OBJECTID": "78",
+    "FIRST_DIST": "100.1004993",
+    "FIRST_Z": "404.4582"
+  },
+  {
+    "OBJECTID": "79",
+    "FIRST_DIST": "100.5533155",
+    "FIRST_Z": "404.4276"
+  },
+  {
+    "OBJECTID": "80",
+    "FIRST_DIST": "101.3229766",
+    "FIRST_Z": "404.3842"
+  },
+  {
+    "OBJECTID": "81",
+    "FIRST_DIST": "102.354243",
+    "FIRST_Z": "404.352"
+  },
+  {
+    "OBJECTID": "82",
+    "FIRST_DIST": "103.5917928",
+    "FIRST_Z": "404.3633"
+  },
+  {
+    "OBJECTID": "83",
+    "FIRST_DIST": "104.9804958",
+    "FIRST_Z": "404.3261"
+  },
+  {
+    "OBJECTID": "84",
+    "FIRST_DIST": "106.4650116",
+    "FIRST_Z": "404.3212"
+  },
+  {
+    "OBJECTID": "85",
+    "FIRST_DIST": "107.9903822",
+    "FIRST_Z": "404.3517"
+  },
+  {
+    "OBJECTID": "86",
+    "FIRST_DIST": "109.5018412",
+    "FIRST_Z": "404.295"
+  },
+  {
+    "OBJECTID": "87",
+    "FIRST_DIST": "110.9444587",
+    "FIRST_Z": "404.2546"
+  },
+  {
+    "OBJECTID": "88",
+    "FIRST_DIST": "112.3491414",
+    "FIRST_Z": "404.3546"
+  },
+  {
+    "OBJECTID": "89",
+    "FIRST_DIST": "113.5895561",
+    "FIRST_Z": "404.5679"
+  },
+  {
+    "OBJECTID": "90",
+    "FIRST_DIST": "114.8298723",
+    "FIRST_Z": "404.5522"
+  },
+  {
+    "OBJECTID": "91",
+    "FIRST_DIST": "116.0631416",
+    "FIRST_Z": "404.582"
+  },
+  {
+    "OBJECTID": "92",
+    "FIRST_DIST": "117.2964109",
+    "FIRST_Z": "404.6671"
+  },
+  {
+    "OBJECTID": "93",
+    "FIRST_DIST": "118.5296099",
+    "FIRST_Z": "404.7365"
+  },
+  {
+    "OBJECTID": "94",
+    "FIRST_DIST": "119.7626665",
+    "FIRST_Z": "404.8234"
+  },
+  {
+    "OBJECTID": "95",
+    "FIRST_DIST": "120.9956347",
+    "FIRST_Z": "404.965"
+  },
+  {
+    "OBJECTID": "96",
+    "FIRST_DIST": "122.2282407",
+    "FIRST_Z": "405.098"
+  },
+  {
+    "OBJECTID": "97",
+    "FIRST_DIST": "123.4607557",
+    "FIRST_Z": "405.2106"
+  },
+  {
+    "OBJECTID": "98",
+    "FIRST_DIST": "124.693114",
+    "FIRST_Z": "405.3196"
+  },
+  {
+    "OBJECTID": "99",
+    "FIRST_DIST": "125.9250495",
+    "FIRST_Z": "405.4332"
+  },
+  {
+    "OBJECTID": "100",
+    "FIRST_DIST": "127.156985",
+    "FIRST_Z": "405.5742"
+  },
+  {
+    "OBJECTID": "101",
+    "FIRST_DIST": "128.388585",
+    "FIRST_Z": "405.7739"
+  },
+  {
+    "OBJECTID": "102",
+    "FIRST_DIST": "129.6161549",
+    "FIRST_Z": "406.048"
+  },
+  {
+    "OBJECTID": "103",
+    "FIRST_DIST": "130.8437248",
+    "FIRST_Z": "406.1257"
+  },
+  {
+    "OBJECTID": "104",
+    "FIRST_DIST": "132.0680855",
+    "FIRST_Z": "406.1626"
+  },
+  {
+    "OBJECTID": "105",
+    "FIRST_DIST": "133.2931485",
+    "FIRST_Z": "406.2305"
+  },
+  {
+    "OBJECTID": "106",
+    "FIRST_DIST": "134.5181063",
+    "FIRST_Z": "406.3553"
+  },
+  {
+    "OBJECTID": "107",
+    "FIRST_DIST": "136.0505592",
+    "FIRST_Z": "406.5511"
+  },
+  {
+    "OBJECTID": "108",
+    "FIRST_DIST": "137.5830121",
+    "FIRST_Z": "406.6814"
+  },
+  {
+    "OBJECTID": "109",
+    "FIRST_DIST": "139.1154651",
+    "FIRST_Z": "406.8431"
+  },
+  {
+    "OBJECTID": "110",
+    "FIRST_DIST": "140.647918",
+    "FIRST_Z": "407.0982"
+  },
+  {
+    "OBJECTID": "111",
+    "FIRST_DIST": "142.4871612",
+    "FIRST_Z": "407.4814"
+  },
+  {
+    "OBJECTID": "112",
+    "FIRST_DIST": "144.3263048",
+    "FIRST_Z": "407.7697"
+  },
+  {
+    "OBJECTID": "113",
+    "FIRST_DIST": "145.5524394",
+    "FIRST_Z": "407.825"
+  },
+  {
+    "OBJECTID": "114",
+    "FIRST_DIST": "146.7784745",
+    "FIRST_Z": "407.9141"
+  },
+  {
+    "OBJECTID": "115",
+    "FIRST_DIST": "148.6175047",
+    "FIRST_Z": "408.1003"
+  },
+  {
+    "OBJECTID": "116",
+    "FIRST_DIST": "150.4565349",
+    "FIRST_Z": "408.3144"
+  },
+  {
+    "OBJECTID": "117",
+    "FIRST_DIST": "152.2955553",
+    "FIRST_Z": "408.5438"
+  },
+  {
+    "OBJECTID": "118",
+    "FIRST_DIST": "154.1345855",
+    "FIRST_Z": "408.8438"
+  },
+  {
+    "OBJECTID": "119",
+    "FIRST_DIST": "155.7690923",
+    "FIRST_Z": "409.0873"
+  },
+  {
+    "OBJECTID": "120",
+    "FIRST_DIST": "157.403688",
+    "FIRST_Z": "409.1956"
+  },
+  {
+    "OBJECTID": "121",
+    "FIRST_DIST": "159.0381947",
+    "FIRST_Z": "409.2643"
+  },
+  {
+    "OBJECTID": "122",
+    "FIRST_DIST": "160.5705577",
+    "FIRST_Z": "409.3084"
+  },
+  {
+    "OBJECTID": "123",
+    "FIRST_DIST": "162.10302",
+    "FIRST_Z": "409.3642"
+  },
+  {
+    "OBJECTID": "124",
+    "FIRST_DIST": "163.6353829",
+    "FIRST_Z": "409.5147"
+  },
+  {
+    "OBJECTID": "125",
+    "FIRST_DIST": "165.1677459",
+    "FIRST_Z": "409.7099"
+  },
+  {
+    "OBJECTID": "126",
+    "FIRST_DIST": "166.8841044",
+    "FIRST_Z": "409.942"
+  },
+  {
+    "OBJECTID": "127",
+    "FIRST_DIST": "168.6005495",
+    "FIRST_Z": "410.0728"
+  },
+  {
+    "OBJECTID": "128",
+    "FIRST_DIST": "170.316908",
+    "FIRST_Z": "410.1759"
+  },
+  {
+    "OBJECTID": "129",
+    "FIRST_DIST": "172.0333531",
+    "FIRST_Z": "410.3927"
+  },
+  {
+    "OBJECTID": "130",
+    "FIRST_DIST": "173.7497116",
+    "FIRST_Z": "410.5531"
+  },
+  {
+    "OBJECTID": "131",
+    "FIRST_DIST": "175.4616014",
+    "FIRST_Z": "410.655"
+  },
+  {
+    "OBJECTID": "132",
+    "FIRST_DIST": "177.1734912",
+    "FIRST_Z": "410.8682"
+  },
+  {
+    "OBJECTID": "133",
+    "FIRST_DIST": "178.8848807",
+    "FIRST_Z": "411.062"
+  },
+  {
+    "OBJECTID": "134",
+    "FIRST_DIST": "180.5962548",
+    "FIRST_Z": "411.2044"
+  },
+  {
+    "OBJECTID": "135",
+    "FIRST_DIST": "181.7370171",
+    "FIRST_Z": "411.2736"
+  },
+  {
+    "OBJECTID": "136",
+    "FIRST_DIST": "182.8777619",
+    "FIRST_Z": "411.3503"
+  },
+  {
+    "OBJECTID": "137",
+    "FIRST_DIST": "184.5888169",
+    "FIRST_Z": "411.55"
+  },
+  {
+    "OBJECTID": "138",
+    "FIRST_DIST": "186.299872",
+    "FIRST_Z": "411.8768"
+  },
+  {
+    "OBJECTID": "139",
+    "FIRST_DIST": "187.4404505",
+    "FIRST_Z": "412.0885"
+  },
+  {
+    "OBJECTID": "140",
+    "FIRST_DIST": "188.5810073",
+    "FIRST_Z": "412.2731"
+  },
+  {
+    "OBJECTID": "141",
+    "FIRST_DIST": "190.291878",
+    "FIRST_Z": "412.34"
+  },
+  {
+    "OBJECTID": "142",
+    "FIRST_DIST": "192.0027246",
+    "FIRST_Z": "412.5048"
+  },
+  {
+    "OBJECTID": "143",
+    "FIRST_DIST": "193.1433037",
+    "FIRST_Z": "412.6225"
+  },
+  {
+    "OBJECTID": "144",
+    "FIRST_DIST": "194.2837863",
+    "FIRST_Z": "412.7614"
+  },
+  {
+    "OBJECTID": "145",
+    "FIRST_DIST": "195.9945617",
+    "FIRST_Z": "413.0737"
+  },
+  {
+    "OBJECTID": "146",
+    "FIRST_DIST": "197.7052414",
+    "FIRST_Z": "413.3759"
+  },
+  {
+    "OBJECTID": "147",
+    "FIRST_DIST": "198.8457371",
+    "FIRST_Z": "413.5699"
+  },
+  {
+    "OBJECTID": "148",
+    "FIRST_DIST": "199.9862017",
+    "FIRST_Z": "413.7801"
+  },
+  {
+    "OBJECTID": "149",
+    "FIRST_DIST": "201.1265856",
+    "FIRST_Z": "413.926"
+  },
+  {
+    "OBJECTID": "150",
+    "FIRST_DIST": "202.2669364",
+    "FIRST_Z": "414.1279"
+  },
+  {
+    "OBJECTID": "151",
+    "FIRST_DIST": "203.407397",
+    "FIRST_Z": "414.31"
+  },
+  {
+    "OBJECTID": "152",
+    "FIRST_DIST": "204.5477289",
+    "FIRST_Z": "414.3579"
+  },
+  {
+    "OBJECTID": "153",
+    "FIRST_DIST": "205.6881411",
+    "FIRST_Z": "414.4749"
+  },
+  {
+    "OBJECTID": "154",
+    "FIRST_DIST": "206.8285162",
+    "FIRST_Z": "414.5679"
+  },
+  {
+    "OBJECTID": "155",
+    "FIRST_DIST": "207.9860755",
+    "FIRST_Z": "414.7176"
+  },
+  {
+    "OBJECTID": "156",
+    "FIRST_DIST": "209.1435428",
+    "FIRST_Z": "414.9834"
+  },
+  {
+    "OBJECTID": "157",
+    "FIRST_DIST": "210.9061224",
+    "FIRST_Z": "415.212"
+  },
+  {
+    "OBJECTID": "158",
+    "FIRST_DIST": "212.6686113",
+    "FIRST_Z": "415.3882"
+  },
+  {
+    "OBJECTID": "159",
+    "FIRST_DIST": "213.843545",
+    "FIRST_Z": "415.4485"
+  },
+  {
+    "OBJECTID": "160",
+    "FIRST_DIST": "215.0183888",
+    "FIRST_Z": "415.6158"
+  },
+  {
+    "OBJECTID": "161",
+    "FIRST_DIST": "216.5816708",
+    "FIRST_Z": "415.8361"
+  },
+  {
+    "OBJECTID": "162",
+    "FIRST_DIST": "218.1449976",
+    "FIRST_Z": "416.0784"
+  },
+  {
+    "OBJECTID": "163",
+    "FIRST_DIST": "219.7082795",
+    "FIRST_Z": "416.301"
+  },
+  {
+    "OBJECTID": "164",
+    "FIRST_DIST": "220.8738431",
+    "FIRST_Z": "416.4856"
+  },
+  {
+    "OBJECTID": "165",
+    "FIRST_DIST": "222.0394067",
+    "FIRST_Z": "416.7025"
+  },
+  {
+    "OBJECTID": "166",
+    "FIRST_DIST": "223.7337256",
+    "FIRST_Z": "416.8592"
+  },
+  {
+    "OBJECTID": "167",
+    "FIRST_DIST": "224.5787728",
+    "FIRST_Z": "416.9619"
+  },
+  {
+    "OBJECTID": "168",
+    "FIRST_DIST": "225.423248",
+    "FIRST_Z": "417.1276"
+  },
+  {
+    "OBJECTID": "169",
+    "FIRST_DIST": "226.2677645",
+    "FIRST_Z": "417.2985"
+  },
+  {
+    "OBJECTID": "170",
+    "FIRST_DIST": "227.1130894",
+    "FIRST_Z": "417.4229"
+  },
+  {
+    "OBJECTID": "171",
+    "FIRST_DIST": "227.959803",
+    "FIRST_Z": "417.487"
+  },
+  {
+    "OBJECTID": "172",
+    "FIRST_DIST": "229.9159265",
+    "FIRST_Z": "417.6973"
+  },
+  {
+    "OBJECTID": "173",
+    "FIRST_DIST": "231.027961",
+    "FIRST_Z": "417.829"
+  },
+  {
+    "OBJECTID": "174",
+    "FIRST_DIST": "232.1398961",
+    "FIRST_Z": "417.9311"
+  },
+  {
+    "OBJECTID": "175",
+    "FIRST_DIST": "234.095942",
+    "FIRST_Z": "418.051"
+  },
+  {
+    "OBJECTID": "176",
+    "FIRST_DIST": "236.0519971",
+    "FIRST_Z": "418.0985"
+  },
+  {
+    "OBJECTID": "177",
+    "FIRST_DIST": "238.008043",
+    "FIRST_Z": "418.223"
+  },
+  {
+    "OBJECTID": "178",
+    "FIRST_DIST": "239.9640889",
+    "FIRST_Z": "418.2579"
+  },
+  {
+    "OBJECTID": "179",
+    "FIRST_DIST": "241.4555753",
+    "FIRST_Z": "418.2156"
+  },
+  {
+    "OBJECTID": "180",
+    "FIRST_DIST": "242.9470512",
+    "FIRST_Z": "418.2401"
+  },
+  {
+    "OBJECTID": "181",
+    "FIRST_DIST": "244.4385376",
+    "FIRST_Z": "418.2854"
+  },
+  {
+    "OBJECTID": "182",
+    "FIRST_DIST": "246.1064982",
+    "FIRST_Z": "418.314"
+  },
+  {
+    "OBJECTID": "183",
+    "FIRST_DIST": "247.7743595",
+    "FIRST_Z": "418.3302"
+  },
+  {
+    "OBJECTID": "184",
+    "FIRST_DIST": "248.8856202",
+    "FIRST_Z": "418.3538"
+  },
+  {
+    "OBJECTID": "185",
+    "FIRST_DIST": "249.9966652",
+    "FIRST_Z": "418.3494"
+  },
+  {
+    "OBJECTID": "186",
+    "FIRST_DIST": "251.1075954",
+    "FIRST_Z": "418.348"
+  },
+  {
+    "OBJECTID": "187",
+    "FIRST_DIST": "252.2185175",
+    "FIRST_Z": "418.4301"
+  },
+  {
+    "OBJECTID": "188",
+    "FIRST_DIST": "253.3294209",
+    "FIRST_Z": "418.5174"
+  },
+  {
+    "OBJECTID": "189",
+    "FIRST_DIST": "254.9963371",
+    "FIRST_Z": "418.6792"
+  },
+  {
+    "OBJECTID": "190",
+    "FIRST_DIST": "256.6631342",
+    "FIRST_Z": "418.7671"
+  },
+  {
+    "OBJECTID": "191",
+    "FIRST_DIST": "258.6403681",
+    "FIRST_Z": "418.9028"
+  },
+  {
+    "OBJECTID": "192",
+    "FIRST_DIST": "260.6175279",
+    "FIRST_Z": "419.0304"
+  },
+  {
+    "OBJECTID": "193",
+    "FIRST_DIST": "262.5947618",
+    "FIRST_Z": "419.1496"
+  },
+  {
+    "OBJECTID": "194",
+    "FIRST_DIST": "264.5718984",
+    "FIRST_Z": "419.3167"
+  },
+  {
+    "OBJECTID": "195",
+    "FIRST_DIST": "266.5491323",
+    "FIRST_Z": "419.4844"
+  },
+  {
+    "OBJECTID": "196",
+    "FIRST_DIST": "268.5262922",
+    "FIRST_Z": "419.6736"
+  },
+  {
+    "OBJECTID": "197",
+    "FIRST_DIST": "270.5035261",
+    "FIRST_Z": "419.7885"
+  },
+  {
+    "OBJECTID": "198",
+    "FIRST_DIST": "272.287667",
+    "FIRST_Z": "419.7887"
+  },
+  {
+    "OBJECTID": "199",
+    "FIRST_DIST": "274.0717106",
+    "FIRST_Z": "419.873"
+  },
+  {
+    "OBJECTID": "200",
+    "FIRST_DIST": "275.8558289",
+    "FIRST_Z": "419.9469"
+  },
+  {
+    "OBJECTID": "201",
+    "FIRST_DIST": "277.6398725",
+    "FIRST_Z": "420.111"
+  },
+  {
+    "OBJECTID": "202",
+    "FIRST_DIST": "279.4240134",
+    "FIRST_Z": "420.2307"
+  },
+  {
+    "OBJECTID": "203",
+    "FIRST_DIST": "280.6980492",
+    "FIRST_Z": "420.2555"
+  },
+  {
+    "OBJECTID": "204",
+    "FIRST_DIST": "281.9720849",
+    "FIRST_Z": "420.2649"
+  },
+  {
+    "OBJECTID": "205",
+    "FIRST_DIST": "283.2447612",
+    "FIRST_Z": "420.2775"
+  },
+  {
+    "OBJECTID": "206",
+    "FIRST_DIST": "284.3688965",
+    "FIRST_Z": "420.3061"
+  },
+  {
+    "OBJECTID": "207",
+    "FIRST_DIST": "285.4929332",
+    "FIRST_Z": "420.3518"
+  },
+  {
+    "OBJECTID": "208",
+    "FIRST_DIST": "286.6147127",
+    "FIRST_Z": "420.3428"
+  },
+  {
+    "OBJECTID": "209",
+    "FIRST_DIST": "287.7351606",
+    "FIRST_Z": "420.3225"
+  },
+  {
+    "OBJECTID": "210",
+    "FIRST_DIST": "288.8542354",
+    "FIRST_Z": "420.3285"
+  },
+  {
+    "OBJECTID": "211",
+    "FIRST_DIST": "289.9719939",
+    "FIRST_Z": "420.3321"
+  },
+  {
+    "OBJECTID": "212",
+    "FIRST_DIST": "291.0888944",
+    "FIRST_Z": "420.3252"
+  },
+  {
+    "OBJECTID": "213",
+    "FIRST_DIST": "292.2052586",
+    "FIRST_Z": "420.3267"
+  },
+  {
+    "OBJECTID": "214",
+    "FIRST_DIST": "293.3210477",
+    "FIRST_Z": "420.365"
+  },
+  {
+    "OBJECTID": "215",
+    "FIRST_DIST": "294.4367768",
+    "FIRST_Z": "420.3794"
+  },
+  {
+    "OBJECTID": "216",
+    "FIRST_DIST": "295.5526901",
+    "FIRST_Z": "420.3339"
+  },
+  {
+    "OBJECTID": "217",
+    "FIRST_DIST": "296.6689308",
+    "FIRST_Z": "420.2746"
+  },
+  {
+    "OBJECTID": "218",
+    "FIRST_DIST": "297.7859764",
+    "FIRST_Z": "420.2271"
+  },
+  {
+    "OBJECTID": "219",
+    "FIRST_DIST": "298.9038766",
+    "FIRST_Z": "420.1448"
+  },
+  {
+    "OBJECTID": "220",
+    "FIRST_DIST": "300.0229862",
+    "FIRST_Z": "420.0349"
+  },
+  {
+    "OBJECTID": "221",
+    "FIRST_DIST": "301.1433322",
+    "FIRST_Z": "419.9168"
+  },
+  {
+    "OBJECTID": "222",
+    "FIRST_DIST": "302.2653519",
+    "FIRST_Z": "419.8295"
+  },
+  {
+    "OBJECTID": "223",
+    "FIRST_DIST": "303.3888793",
+    "FIRST_Z": "419.6696"
+  },
+  {
+    "OBJECTID": "224",
+    "FIRST_DIST": "304.5765166",
+    "FIRST_Z": "419.4561"
+  },
+  {
+    "OBJECTID": "225",
+    "FIRST_DIST": "305.7656564",
+    "FIRST_Z": "419.268"
+  },
+  {
+    "OBJECTID": "226",
+    "FIRST_DIST": "306.9562814",
+    "FIRST_Z": "419.0394"
+  },
+  {
+    "OBJECTID": "227",
+    "FIRST_DIST": "308.1469508",
+    "FIRST_Z": "418.7507"
+  },
+  {
+    "OBJECTID": "228",
+    "FIRST_DIST": "309.338746",
+    "FIRST_Z": "418.463"
+  },
+  {
+    "OBJECTID": "229",
+    "FIRST_DIST": "310.5304524",
+    "FIRST_Z": "418.1624"
+  },
+  {
+    "OBJECTID": "230",
+    "FIRST_DIST": "311.7225063",
+    "FIRST_Z": "417.8794"
+  },
+  {
+    "OBJECTID": "231",
+    "FIRST_DIST": "312.914472",
+    "FIRST_Z": "417.6426"
+  },
+  {
+    "OBJECTID": "232",
+    "FIRST_DIST": "314.1063182",
+    "FIRST_Z": "417.4467"
+  },
+  {
+    "OBJECTID": "233",
+    "FIRST_DIST": "315.2981645",
+    "FIRST_Z": "417.1525"
+  },
+  {
+    "OBJECTID": "234",
+    "FIRST_DIST": "316.489187",
+    "FIRST_Z": "416.8257"
+  },
+  {
+    "OBJECTID": "235",
+    "FIRST_DIST": "317.6802596",
+    "FIRST_Z": "416.5511"
+  },
+  {
+    "OBJECTID": "236",
+    "FIRST_DIST": "318.8697209",
+    "FIRST_Z": "416.2855"
+  },
+  {
+    "OBJECTID": "237",
+    "FIRST_DIST": "320.059234",
+    "FIRST_Z": "415.9514"
+  },
+  {
+    "OBJECTID": "238",
+    "FIRST_DIST": "321.2471233",
+    "FIRST_Z": "415.549"
+  },
+  {
+    "OBJECTID": "239",
+    "FIRST_DIST": "322.4337591",
+    "FIRST_Z": "415.2459"
+  },
+  {
+    "OBJECTID": "240",
+    "FIRST_DIST": "323.5649701",
+    "FIRST_Z": "414.9799"
+  },
+  {
+    "OBJECTID": "241",
+    "FIRST_DIST": "324.6957823",
+    "FIRST_Z": "414.7183"
+  },
+  {
+    "OBJECTID": "242",
+    "FIRST_DIST": "325.8262215",
+    "FIRST_Z": "414.457"
+  },
+  {
+    "OBJECTID": "243",
+    "FIRST_DIST": "326.9563554",
+    "FIRST_Z": "414.1933"
+  },
+  {
+    "OBJECTID": "244",
+    "FIRST_DIST": "328.0862777",
+    "FIRST_Z": "413.9257"
+  },
+  {
+    "OBJECTID": "245",
+    "FIRST_DIST": "329.2161669",
+    "FIRST_Z": "413.6545"
+  },
+  {
+    "OBJECTID": "246",
+    "FIRST_DIST": "330.3460897",
+    "FIRST_Z": "413.4283"
+  },
+  {
+    "OBJECTID": "247",
+    "FIRST_DIST": "331.4757484",
+    "FIRST_Z": "413.1687"
+  },
+  {
+    "OBJECTID": "248",
+    "FIRST_DIST": "332.6053855",
+    "FIRST_Z": "412.863"
+  },
+  {
+    "OBJECTID": "249",
+    "FIRST_DIST": "333.7348692",
+    "FIRST_Z": "412.6399"
+  },
+  {
+    "OBJECTID": "250",
+    "FIRST_DIST": "334.8642042",
+    "FIRST_Z": "412.5339"
+  },
+  {
+    "OBJECTID": "251",
+    "FIRST_DIST": "335.9931019",
+    "FIRST_Z": "412.4039"
+  },
+  {
+    "OBJECTID": "252",
+    "FIRST_DIST": "337.1216966",
+    "FIRST_Z": "412.1702"
+  },
+  {
+    "OBJECTID": "253",
+    "FIRST_DIST": "338.2498017",
+    "FIRST_Z": "411.9227"
+  },
+  {
+    "OBJECTID": "254",
+    "FIRST_DIST": "339.3773707",
+    "FIRST_Z": "411.6902"
+  },
+  {
+    "OBJECTID": "255",
+    "FIRST_DIST": "340.5040943",
+    "FIRST_Z": "411.4923"
+  },
+  {
+    "OBJECTID": "256",
+    "FIRST_DIST": "341.6301613",
+    "FIRST_Z": "411.4001"
+  },
+  {
+    "OBJECTID": "257",
+    "FIRST_DIST": "342.7555917",
+    "FIRST_Z": "411.3297"
+  },
+  {
+    "OBJECTID": "258",
+    "FIRST_DIST": "343.8802332",
+    "FIRST_Z": "411.2185"
+  },
+  {
+    "OBJECTID": "259",
+    "FIRST_DIST": "345.0045433",
+    "FIRST_Z": "411.1022"
+  },
+  {
+    "OBJECTID": "260",
+    "FIRST_DIST": "346.2776212",
+    "FIRST_Z": "410.9802"
+  },
+  {
+    "OBJECTID": "261",
+    "FIRST_DIST": "347.552048",
+    "FIRST_Z": "410.9337"
+  },
+  {
+    "OBJECTID": "262",
+    "FIRST_DIST": "348.8282594",
+    "FIRST_Z": "410.877"
+  },
+  {
+    "OBJECTID": "263",
+    "FIRST_DIST": "350.1056623",
+    "FIRST_Z": "410.8409"
+  },
+  {
+    "OBJECTID": "264",
+    "FIRST_DIST": "351.3843914",
+    "FIRST_Z": "410.8803"
+  },
+  {
+    "OBJECTID": "265",
+    "FIRST_DIST": "352.6642917",
+    "FIRST_Z": "410.784"
+  },
+  {
+    "OBJECTID": "266",
+    "FIRST_DIST": "353.9449851",
+    "FIRST_Z": "410.6652"
+  },
+  {
+    "OBJECTID": "267",
+    "FIRST_DIST": "355.2264128",
+    "FIRST_Z": "410.6404"
+  },
+  {
+    "OBJECTID": "268",
+    "FIRST_DIST": "356.5084848",
+    "FIRST_Z": "410.7285"
+  },
+  {
+    "OBJECTID": "269",
+    "FIRST_DIST": "357.7913154",
+    "FIRST_Z": "410.8488"
+  },
+  {
+    "OBJECTID": "270",
+    "FIRST_DIST": "359.0749437",
+    "FIRST_Z": "410.7215"
+  },
+  {
+    "OBJECTID": "271",
+    "FIRST_DIST": "360.3585719",
+    "FIRST_Z": "410.6538"
+  },
+  {
+    "OBJECTID": "272",
+    "FIRST_DIST": "362.1975047",
+    "FIRST_Z": "410.6154"
+  },
+  {
+    "OBJECTID": "273",
+    "FIRST_DIST": "364.0365336",
+    "FIRST_Z": "410.5907"
+  },
+  {
+    "OBJECTID": "274",
+    "FIRST_DIST": "365.6735971",
+    "FIRST_Z": "410.5986"
+  },
+  {
+    "OBJECTID": "275",
+    "FIRST_DIST": "367.3105607",
+    "FIRST_Z": "410.6528"
+  },
+  {
+    "OBJECTID": "276",
+    "FIRST_DIST": "368.9476243",
+    "FIRST_Z": "410.5796"
+  },
+  {
+    "OBJECTID": "277",
+    "FIRST_DIST": "370.7916412",
+    "FIRST_Z": "410.4849"
+  },
+  {
+    "OBJECTID": "278",
+    "FIRST_DIST": "372.6356582",
+    "FIRST_Z": "410.4516"
+  },
+  {
+    "OBJECTID": "279",
+    "FIRST_DIST": "374.4791324",
+    "FIRST_Z": "410.4046"
+  },
+  {
+    "OBJECTID": "280",
+    "FIRST_DIST": "376.3227067",
+    "FIRST_Z": "410.3343"
+  },
+  {
+    "OBJECTID": "281",
+    "FIRST_DIST": "377.5469495",
+    "FIRST_Z": "410.3176"
+  },
+  {
+    "OBJECTID": "282",
+    "FIRST_DIST": "378.7711974",
+    "FIRST_Z": "410.3107"
+  },
+  {
+    "OBJECTID": "283",
+    "FIRST_DIST": "379.9895012",
+    "FIRST_Z": "410.3042"
+  },
+  {
+    "OBJECTID": "284",
+    "FIRST_DIST": "381.1599444",
+    "FIRST_Z": "410.2965"
+  },
+  {
+    "OBJECTID": "285",
+    "FIRST_DIST": "382.3247659",
+    "FIRST_Z": "410.2998"
+  },
+  {
+    "OBJECTID": "286",
+    "FIRST_DIST": "383.4841334",
+    "FIRST_Z": "410.3003"
+  },
+  {
+    "OBJECTID": "287",
+    "FIRST_DIST": "384.6383983",
+    "FIRST_Z": "410.3128"
+  },
+  {
+    "OBJECTID": "288",
+    "FIRST_DIST": "385.7884847",
+    "FIRST_Z": "410.3516"
+  },
+  {
+    "OBJECTID": "289",
+    "FIRST_DIST": "386.9355468",
+    "FIRST_Z": "410.2975"
+  },
+  {
+    "OBJECTID": "290",
+    "FIRST_DIST": "388.0806425",
+    "FIRST_Z": "410.1747"
+  },
+  {
+    "OBJECTID": "291",
+    "FIRST_DIST": "389.2251544",
+    "FIRST_Z": "410.123"
+  },
+  {
+    "OBJECTID": "292",
+    "FIRST_DIST": "390.3701286",
+    "FIRST_Z": "410.0674"
+  },
+  {
+    "OBJECTID": "293",
+    "FIRST_DIST": "391.516895",
+    "FIRST_Z": "410.0627"
+  },
+  {
+    "OBJECTID": "294",
+    "FIRST_DIST": "392.6665804",
+    "FIRST_Z": "410.0221"
+  },
+  {
+    "OBJECTID": "295",
+    "FIRST_DIST": "393.8201825",
+    "FIRST_Z": "409.9473"
+  },
+  {
+    "OBJECTID": "296",
+    "FIRST_DIST": "394.9784188",
+    "FIRST_Z": "409.9306"
+  },
+  {
+    "OBJECTID": "297",
+    "FIRST_DIST": "396.1418994",
+    "FIRST_Z": "409.9528"
+  },
+  {
+    "OBJECTID": "298",
+    "FIRST_DIST": "397.3106515",
+    "FIRST_Z": "410.04"
+  },
+  {
+    "OBJECTID": "299",
+    "FIRST_DIST": "398.4845676",
+    "FIRST_Z": "410.0305"
+  },
+  {
+    "OBJECTID": "300",
+    "FIRST_DIST": "399.7563392",
+    "FIRST_Z": "410.0412"
+  },
+  {
+    "OBJECTID": "301",
+    "FIRST_DIST": "401.0311633",
+    "FIRST_Z": "410.0733"
+  },
+  {
+    "OBJECTID": "302",
+    "FIRST_DIST": "402.3078228",
+    "FIRST_Z": "410.0373"
+  },
+  {
+    "OBJECTID": "303",
+    "FIRST_DIST": "403.585466",
+    "FIRST_Z": "410.1464"
+  },
+  {
+    "OBJECTID": "304",
+    "FIRST_DIST": "404.8636735",
+    "FIRST_Z": "410.2038"
+  },
+  {
+    "OBJECTID": "305",
+    "FIRST_DIST": "406.141839",
+    "FIRST_Z": "410.0383"
+  },
+  {
+    "OBJECTID": "306",
+    "FIRST_DIST": "407.4199595",
+    "FIRST_Z": "409.9192"
+  },
+  {
+    "OBJECTID": "307",
+    "FIRST_DIST": "408.6980276",
+    "FIRST_Z": "409.8532"
+  },
+  {
+    "OBJECTID": "308",
+    "FIRST_DIST": "409.976054",
+    "FIRST_Z": "409.9911"
+  },
+  {
+    "OBJECTID": "309",
+    "FIRST_DIST": "411.2541663",
+    "FIRST_Z": "409.9789"
+  },
+  {
+    "OBJECTID": "310",
+    "FIRST_DIST": "412.5324858",
+    "FIRST_Z": "409.7894"
+  },
+  {
+    "OBJECTID": "311",
+    "FIRST_DIST": "413.7745886",
+    "FIRST_Z": "409.7645"
+  },
+  {
+    "OBJECTID": "312",
+    "FIRST_DIST": "415.0166914",
+    "FIRST_Z": "409.7553"
+  },
+  {
+    "OBJECTID": "313",
+    "FIRST_DIST": "416.8252008",
+    "FIRST_Z": "409.7664"
+  },
+  {
+    "OBJECTID": "314",
+    "FIRST_DIST": "418.6338131",
+    "FIRST_Z": "409.6391"
+  },
+  {
+    "OBJECTID": "315",
+    "FIRST_DIST": "420.2407596",
+    "FIRST_Z": "409.51"
+  },
+  {
+    "OBJECTID": "316",
+    "FIRST_DIST": "421.8476048",
+    "FIRST_Z": "409.5175"
+  },
+  {
+    "OBJECTID": "317",
+    "FIRST_DIST": "423.4545513",
+    "FIRST_Z": "409.4849"
+  },
+  {
+    "OBJECTID": "318",
+    "FIRST_DIST": "425.0599558",
+    "FIRST_Z": "409.4153"
+  },
+  {
+    "OBJECTID": "319",
+    "FIRST_DIST": "426.6653603",
+    "FIRST_Z": "409.427"
+  },
+  {
+    "OBJECTID": "320",
+    "FIRST_DIST": "428.2707648",
+    "FIRST_Z": "409.3971"
+  },
+  {
+    "OBJECTID": "321",
+    "FIRST_DIST": "429.7748575",
+    "FIRST_Z": "409.3512"
+  },
+  {
+    "OBJECTID": "322",
+    "FIRST_DIST": "431.2790502",
+    "FIRST_Z": "409.2231"
+  },
+  {
+    "OBJECTID": "323",
+    "FIRST_DIST": "432.7831429",
+    "FIRST_Z": "409.0314"
+  },
+  {
+    "OBJECTID": "324",
+    "FIRST_DIST": "434.2872356",
+    "FIRST_Z": "409.0513"
+  },
+  {
+    "OBJECTID": "325",
+    "FIRST_DIST": "435.8910314",
+    "FIRST_Z": "409.0027"
+  },
+  {
+    "OBJECTID": "326",
+    "FIRST_DIST": "437.4947272",
+    "FIRST_Z": "408.8942"
+  },
+  {
+    "OBJECTID": "327",
+    "FIRST_DIST": "439.098523",
+    "FIRST_Z": "408.8208"
+  },
+  {
+    "OBJECTID": "328",
+    "FIRST_DIST": "440.9800545",
+    "FIRST_Z": "408.8678"
+  },
+  {
+    "OBJECTID": "329",
+    "FIRST_DIST": "442.861583",
+    "FIRST_Z": "408.7868"
+  },
+  {
+    "OBJECTID": "330",
+    "FIRST_DIST": "444.5685148",
+    "FIRST_Z": "408.8866"
+  },
+  {
+    "OBJECTID": "331",
+    "FIRST_DIST": "446.2755506",
+    "FIRST_Z": "408.6043"
+  },
+  {
+    "OBJECTID": "332",
+    "FIRST_DIST": "447.9824824",
+    "FIRST_Z": "408.482"
+  },
+  {
+    "OBJECTID": "333",
+    "FIRST_DIST": "449.7748001",
+    "FIRST_Z": "408.5669"
+  },
+  {
+    "OBJECTID": "334",
+    "FIRST_DIST": "451.567018",
+    "FIRST_Z": "408.4739"
+  },
+  {
+    "OBJECTID": "335",
+    "FIRST_DIST": "453.3593312",
+    "FIRST_Z": "408.4253"
+  },
+  {
+    "OBJECTID": "336",
+    "FIRST_DIST": "455.151549",
+    "FIRST_Z": "408.5885"
+  },
+  {
+    "OBJECTID": "337",
+    "FIRST_DIST": "456.9438667",
+    "FIRST_Z": "408.4259"
+  },
+  {
+    "OBJECTID": "338",
+    "FIRST_DIST": "458.6507751",
+    "FIRST_Z": "408.1628"
+  },
+  {
+    "OBJECTID": "339",
+    "FIRST_DIST": "460.3575785",
+    "FIRST_Z": "408.0846"
+  },
+  {
+    "OBJECTID": "340",
+    "FIRST_DIST": "462.0644869",
+    "FIRST_Z": "408.2639"
+  },
+  {
+    "OBJECTID": "341",
+    "FIRST_DIST": "463.9135854",
+    "FIRST_Z": "408.0926"
+  },
+  {
+    "OBJECTID": "342",
+    "FIRST_DIST": "465.7627836",
+    "FIRST_Z": "407.9368"
+  },
+  {
+    "OBJECTID": "343",
+    "FIRST_DIST": "467.6118763",
+    "FIRST_Z": "407.8929"
+  },
+  {
+    "OBJECTID": "344",
+    "FIRST_DIST": "469.4609747",
+    "FIRST_Z": "407.8348"
+  },
+  {
+    "OBJECTID": "345",
+    "FIRST_DIST": "471.310173",
+    "FIRST_Z": "407.7398"
+  },
+  {
+    "OBJECTID": "346",
+    "FIRST_DIST": "473.1592714",
+    "FIRST_Z": "407.7102"
+  },
+  {
+    "OBJECTID": "347",
+    "FIRST_DIST": "475.008364",
+    "FIRST_Z": "407.9412"
+  },
+  {
+    "OBJECTID": "348",
+    "FIRST_DIST": "476.8575623",
+    "FIRST_Z": "407.9488"
+  },
+  {
+    "OBJECTID": "349",
+    "FIRST_DIST": "478.7066607",
+    "FIRST_Z": "407.6968"
+  },
+  {
+    "OBJECTID": "350",
+    "FIRST_DIST": "480.5298803",
+    "FIRST_Z": "408.3111"
+  },
+  {
+    "OBJECTID": "351",
+    "FIRST_DIST": "482.3530067",
+    "FIRST_Z": "408.1134"
+  },
+  {
+    "OBJECTID": "352",
+    "FIRST_DIST": "484.1762263",
+    "FIRST_Z": "407.6764"
+  },
+  {
+    "OBJECTID": "353",
+    "FIRST_DIST": "485.9994459",
+    "FIRST_Z": "407.6265"
+  },
+  {
+    "OBJECTID": "354",
+    "FIRST_DIST": "487.8225724",
+    "FIRST_Z": "407.4757"
+  },
+  {
+    "OBJECTID": "355",
+    "FIRST_DIST": "489.6457919",
+    "FIRST_Z": "407.5197"
+  },
+  {
+    "OBJECTID": "356",
+    "FIRST_DIST": "491.4690115",
+    "FIRST_Z": "407.6703"
+  },
+  {
+    "OBJECTID": "357",
+    "FIRST_DIST": "493.292138",
+    "FIRST_Z": "407.6328"
+  },
+  {
+    "OBJECTID": "358",
+    "FIRST_DIST": "495.1153575",
+    "FIRST_Z": "407.554"
+  },
+  {
+    "OBJECTID": "359",
+    "FIRST_DIST": "496.7982739",
+    "FIRST_Z": "407.3321"
+  },
+  {
+    "OBJECTID": "360",
+    "FIRST_DIST": "498.4811835",
+    "FIRST_Z": "407.1823"
+  },
+  {
+    "OBJECTID": "361",
+    "FIRST_DIST": "500.1640999",
+    "FIRST_Z": "407.1474"
+  },
+  {
+    "OBJECTID": "362",
+    "FIRST_DIST": "501.8471091",
+    "FIRST_Z": "407.0775"
+  },
+  {
+    "OBJECTID": "363",
+    "FIRST_DIST": "503.5300256",
+    "FIRST_Z": "407.0532"
+  },
+  {
+    "OBJECTID": "364",
+    "FIRST_DIST": "505.2129351",
+    "FIRST_Z": "407.1713"
+  },
+  {
+    "OBJECTID": "365",
+    "FIRST_DIST": "507.1077017",
+    "FIRST_Z": "407.2628"
+  },
+  {
+    "OBJECTID": "366",
+    "FIRST_DIST": "509.0025608",
+    "FIRST_Z": "406.9863"
+  },
+  {
+    "OBJECTID": "367",
+    "FIRST_DIST": "510.8973274",
+    "FIRST_Z": "406.9918"
+  },
+  {
+    "OBJECTID": "368",
+    "FIRST_DIST": "512.7921937",
+    "FIRST_Z": "407.1487"
+  },
+  {
+    "OBJECTID": "369",
+    "FIRST_DIST": "514.6869603",
+    "FIRST_Z": "407.083"
+  },
+  {
+    "OBJECTID": "370",
+    "FIRST_DIST": "516.5818194",
+    "FIRST_Z": "407.286"
+  },
+  {
+    "OBJECTID": "371",
+    "FIRST_DIST": "518.476586",
+    "FIRST_Z": "407.0795"
+  },
+  {
+    "OBJECTID": "372",
+    "FIRST_DIST": "520.3714523",
+    "FIRST_Z": "407.0089"
+  },
+  {
+    "OBJECTID": "373",
+    "FIRST_DIST": "522.2662117",
+    "FIRST_Z": "406.7993"
+  },
+  {
+    "OBJECTID": "374",
+    "FIRST_DIST": "524.161078",
+    "FIRST_Z": "406.7443"
+  },
+  {
+    "OBJECTID": "375",
+    "FIRST_DIST": "526.0558446",
+    "FIRST_Z": "406.7651"
+  },
+  {
+    "OBJECTID": "376",
+    "FIRST_DIST": "527.9507109",
+    "FIRST_Z": "406.5219"
+  },
+  {
+    "OBJECTID": "377",
+    "FIRST_DIST": "529.8454703",
+    "FIRST_Z": "406.3036"
+  },
+  {
+    "OBJECTID": "378",
+    "FIRST_DIST": "531.7403366",
+    "FIRST_Z": "406.0783"
+  },
+  {
+    "OBJECTID": "379",
+    "FIRST_DIST": "533.6415524",
+    "FIRST_Z": "405.9408"
+  },
+  {
+    "OBJECTID": "380",
+    "FIRST_DIST": "535.5427612",
+    "FIRST_Z": "405.9151"
+  },
+  {
+    "OBJECTID": "381",
+    "FIRST_DIST": "537.4438772",
+    "FIRST_Z": "405.801"
+  },
+  {
+    "OBJECTID": "382",
+    "FIRST_DIST": "539.3450859",
+    "FIRST_Z": "405.693"
+  },
+  {
+    "OBJECTID": "383",
+    "FIRST_DIST": "541.2463017",
+    "FIRST_Z": "405.608"
+  },
+  {
+    "OBJECTID": "384",
+    "FIRST_DIST": "543.1475105",
+    "FIRST_Z": "405.5599"
+  },
+  {
+    "OBJECTID": "385",
+    "FIRST_DIST": "545.0487262",
+    "FIRST_Z": "405.6508"
+  },
+  {
+    "OBJECTID": "386",
+    "FIRST_DIST": "546.9498353",
+    "FIRST_Z": "405.6074"
+  },
+  {
+    "OBJECTID": "387",
+    "FIRST_DIST": "548.851051",
+    "FIRST_Z": "405.4381"
+  },
+  {
+    "OBJECTID": "388",
+    "FIRST_DIST": "550.7522598",
+    "FIRST_Z": "405.3056"
+  },
+  {
+    "OBJECTID": "389",
+    "FIRST_DIST": "552.6535651",
+    "FIRST_Z": "405.2755"
+  },
+  {
+    "OBJECTID": "390",
+    "FIRST_DIST": "554.5547707",
+    "FIRST_Z": "405.2604"
+  },
+  {
+    "OBJECTID": "391",
+    "FIRST_DIST": "556.4560699",
+    "FIRST_Z": "405.2394"
+  },
+  {
+    "OBJECTID": "392",
+    "FIRST_DIST": "558.3572755",
+    "FIRST_Z": "405.1868"
+  },
+  {
+    "OBJECTID": "393",
+    "FIRST_DIST": "560.2585808",
+    "FIRST_Z": "405.1234"
+  },
+  {
+    "OBJECTID": "394",
+    "FIRST_DIST": "562.1598861",
+    "FIRST_Z": "405.0611"
+  },
+  {
+    "OBJECTID": "395",
+    "FIRST_DIST": "564.0610917",
+    "FIRST_Z": "405.0694"
+  },
+  {
+    "OBJECTID": "396",
+    "FIRST_DIST": "565.9623909",
+    "FIRST_Z": "405.1446"
+  },
+  {
+    "OBJECTID": "397",
+    "FIRST_DIST": "567.8635965",
+    "FIRST_Z": "405.1477"
+  },
+  {
+    "OBJECTID": "398",
+    "FIRST_DIST": "569.7649018",
+    "FIRST_Z": "405.1394"
+  },
+  {
+    "OBJECTID": "399",
+    "FIRST_DIST": "571.5499757",
+    "FIRST_Z": "405.1493"
+  },
+  {
+    "OBJECTID": "400",
+    "FIRST_DIST": "573.3350564",
+    "FIRST_Z": "405.1277"
+  },
+  {
+    "OBJECTID": "401",
+    "FIRST_DIST": "575.1201303",
+    "FIRST_Z": "405.0695"
+  },
+  {
+    "OBJECTID": "402",
+    "FIRST_DIST": "576.9052042",
+    "FIRST_Z": "404.9826"
+  },
+  {
+    "OBJECTID": "403",
+    "FIRST_DIST": "578.690285",
+    "FIRST_Z": "404.9483"
+  },
+  {
+    "OBJECTID": "404",
+    "FIRST_DIST": "580.4753588",
+    "FIRST_Z": "404.9289"
+  },
+  {
+    "OBJECTID": "405",
+    "FIRST_DIST": "582.1665702",
+    "FIRST_Z": "404.9047"
+  },
+  {
+    "OBJECTID": "406",
+    "FIRST_DIST": "583.8577815",
+    "FIRST_Z": "404.8981"
+  },
+  {
+    "OBJECTID": "407",
+    "FIRST_DIST": "584.9851174",
+    "FIRST_Z": "404.8887"
+  },
+  {
+    "OBJECTID": "408",
+    "FIRST_DIST": "586.1124525",
+    "FIRST_Z": "404.7499"
+  },
+  {
+    "OBJECTID": "409",
+    "FIRST_DIST": "587.2398334",
+    "FIRST_Z": "404.6631"
+  },
+  {
+    "OBJECTID": "410",
+    "FIRST_DIST": "588.3674989",
+    "FIRST_Z": "404.6938"
+  },
+  {
+    "OBJECTID": "411",
+    "FIRST_DIST": "589.4951673",
+    "FIRST_Z": "404.7046"
+  },
+  {
+    "OBJECTID": "412",
+    "FIRST_DIST": "591.2242388",
+    "FIRST_Z": "404.7388"
+  },
+  {
+    "OBJECTID": "413",
+    "FIRST_DIST": "592.9533154",
+    "FIRST_Z": "404.9779"
+  },
+  {
+    "OBJECTID": "414",
+    "FIRST_DIST": "594.5569382",
+    "FIRST_Z": "405.0761"
+  },
+  {
+    "OBJECTID": "415",
+    "FIRST_DIST": "596.1606535",
+    "FIRST_Z": "405.0799"
+  },
+  {
+    "OBJECTID": "416",
+    "FIRST_DIST": "597.7642763",
+    "FIRST_Z": "404.9898"
+  },
+  {
+    "OBJECTID": "417",
+    "FIRST_DIST": "599.2680141",
+    "FIRST_Z": "404.8819"
+  },
+  {
+    "OBJECTID": "418",
+    "FIRST_DIST": "600.7716523",
+    "FIRST_Z": "404.9018"
+  },
+  {
+    "OBJECTID": "419",
+    "FIRST_DIST": "602.2753984",
+    "FIRST_Z": "404.9473"
+  },
+  {
+    "OBJECTID": "420",
+    "FIRST_DIST": "603.7791362",
+    "FIRST_Z": "405.0008"
+  },
+  {
+    "OBJECTID": "421",
+    "FIRST_DIST": "605.6920805",
+    "FIRST_Z": "405.079"
+  },
+  {
+    "OBJECTID": "422",
+    "FIRST_DIST": "607.6049346",
+    "FIRST_Z": "405.1397"
+  },
+  {
+    "OBJECTID": "423",
+    "FIRST_DIST": "609.5178789",
+    "FIRST_Z": "405.2217"
+  },
+  {
+    "OBJECTID": "424",
+    "FIRST_DIST": "611.4308326",
+    "FIRST_Z": "405.3666"
+  },
+  {
+    "OBJECTID": "425",
+    "FIRST_DIST": "613.3437768",
+    "FIRST_Z": "405.471"
+  },
+  {
+    "OBJECTID": "426",
+    "FIRST_DIST": "615.256631",
+    "FIRST_Z": "405.614"
+  },
+  {
+    "OBJECTID": "427",
+    "FIRST_DIST": "617.1695752",
+    "FIRST_Z": "405.7693"
+  },
+  {
+    "OBJECTID": "428",
+    "FIRST_DIST": "619.0825289",
+    "FIRST_Z": "405.7251"
+  },
+  {
+    "OBJECTID": "429",
+    "FIRST_DIST": "620.172761",
+    "FIRST_Z": "405.7422"
+  },
+  {
+    "OBJECTID": "430",
+    "FIRST_DIST": "621.262993",
+    "FIRST_Z": "405.791"
+  },
+  {
+    "OBJECTID": "431",
+    "FIRST_DIST": "622.35279",
+    "FIRST_Z": "405.9326"
+  },
+  {
+    "OBJECTID": "432",
+    "FIRST_DIST": "623.4422833",
+    "FIRST_Z": "406.057"
+  },
+  {
+    "OBJECTID": "433",
+    "FIRST_DIST": "624.5317765",
+    "FIRST_Z": "406.1248"
+  },
+  {
+    "OBJECTID": "434",
+    "FIRST_DIST": "625.6209224",
+    "FIRST_Z": "406.1635"
+  },
+  {
+    "OBJECTID": "435",
+    "FIRST_DIST": "626.7100865",
+    "FIRST_Z": "406.1823"
+  },
+  {
+    "OBJECTID": "436",
+    "FIRST_DIST": "627.7991753",
+    "FIRST_Z": "406.2264"
+  },
+  {
+    "OBJECTID": "437",
+    "FIRST_DIST": "628.8882856",
+    "FIRST_Z": "406.2906"
+  },
+  {
+    "OBJECTID": "438",
+    "FIRST_DIST": "629.977663",
+    "FIRST_Z": "406.3769"
+  },
+  {
+    "OBJECTID": "439",
+    "FIRST_DIST": "631.0671373",
+    "FIRST_Z": "406.4681"
+  },
+  {
+    "OBJECTID": "440",
+    "FIRST_DIST": "632.1569707",
+    "FIRST_Z": "406.6131"
+  },
+  {
+    "OBJECTID": "441",
+    "FIRST_DIST": "633.2469003",
+    "FIRST_Z": "406.793"
+  },
+  {
+    "OBJECTID": "442",
+    "FIRST_DIST": "634.337521",
+    "FIRST_Z": "406.8741"
+  },
+  {
+    "OBJECTID": "443",
+    "FIRST_DIST": "635.4282668",
+    "FIRST_Z": "406.9509"
+  },
+  {
+    "OBJECTID": "444",
+    "FIRST_DIST": "636.9156627",
+    "FIRST_Z": "407.0607"
+  },
+  {
+    "OBJECTID": "445",
+    "FIRST_DIST": "638.4031847",
+    "FIRST_Z": "407.2511"
+  },
+  {
+    "OBJECTID": "446",
+    "FIRST_DIST": "639.8905806",
+    "FIRST_Z": "407.5019"
+  },
+  {
+    "OBJECTID": "447",
+    "FIRST_DIST": "641.4112655",
+    "FIRST_Z": "407.6202"
+  },
+  {
+    "OBJECTID": "448",
+    "FIRST_DIST": "642.9318237",
+    "FIRST_Z": "407.7639"
+  },
+  {
+    "OBJECTID": "449",
+    "FIRST_DIST": "644.4525087",
+    "FIRST_Z": "407.9934"
+  },
+  {
+    "OBJECTID": "450",
+    "FIRST_DIST": "646.4491711",
+    "FIRST_Z": "408.2282"
+  },
+  {
+    "OBJECTID": "451",
+    "FIRST_DIST": "648.4459282",
+    "FIRST_Z": "408.3828"
+  },
+  {
+    "OBJECTID": "452",
+    "FIRST_DIST": "650.4425907",
+    "FIRST_Z": "408.6706"
+  },
+  {
+    "OBJECTID": "453",
+    "FIRST_DIST": "652.4393478",
+    "FIRST_Z": "408.7933"
+  },
+  {
+    "OBJECTID": "454",
+    "FIRST_DIST": "653.5287006",
+    "FIRST_Z": "408.7968"
+  },
+  {
+    "OBJECTID": "455",
+    "FIRST_DIST": "654.6180533",
+    "FIRST_Z": "408.8276"
+  },
+  {
+    "OBJECTID": "456",
+    "FIRST_DIST": "655.6562011",
+    "FIRST_Z": "408.8551"
+  },
+  {
+    "OBJECTID": "457",
+    "FIRST_DIST": "656.6923811",
+    "FIRST_Z": "408.8977"
+  },
+  {
+    "OBJECTID": "458",
+    "FIRST_DIST": "657.7266169",
+    "FIRST_Z": "408.9645"
+  },
+  {
+    "OBJECTID": "459",
+    "FIRST_DIST": "658.759212",
+    "FIRST_Z": "409.0217"
+  },
+  {
+    "OBJECTID": "460",
+    "FIRST_DIST": "659.7900308",
+    "FIRST_Z": "409.0761"
+  },
+  {
+    "OBJECTID": "461",
+    "FIRST_DIST": "660.8195079",
+    "FIRST_Z": "409.121"
+  },
+  {
+    "OBJECTID": "462",
+    "FIRST_DIST": "661.8481158",
+    "FIRST_Z": "409.1583"
+  },
+  {
+    "OBJECTID": "463",
+    "FIRST_DIST": "662.8759479",
+    "FIRST_Z": "409.1857"
+  },
+  {
+    "OBJECTID": "464",
+    "FIRST_DIST": "663.9035694",
+    "FIRST_Z": "409.2004"
+  },
+  {
+    "OBJECTID": "465",
+    "FIRST_DIST": "664.9314046",
+    "FIRST_Z": "409.2165"
+  },
+  {
+    "OBJECTID": "466",
+    "FIRST_DIST": "665.9598953",
+    "FIRST_Z": "409.2374"
+  },
+  {
+    "OBJECTID": "467",
+    "FIRST_DIST": "666.4803705",
+    "FIRST_Z": "409.2066"
+  },
+  {
+    "OBJECTID": "468",
+    "FIRST_DIST": "667.3043969",
+    "FIRST_Z": "409.1257"
+  },
+  {
+    "OBJECTID": "469",
+    "FIRST_DIST": "667.8270051",
+    "FIRST_Z": "409.0776"
+  },
+  {
+    "OBJECTID": "470",
+    "FIRST_DIST": "668.4692687",
+    "FIRST_Z": "409.0186"
+  },
+  {
+    "OBJECTID": "471",
+    "FIRST_DIST": "669.3099901",
+    "FIRST_Z": "408.9902"
+  },
+  {
+    "OBJECTID": "472",
+    "FIRST_DIST": "669.9401612",
+    "FIRST_Z": "408.9771"
+  },
+  {
+    "OBJECTID": "473",
+    "FIRST_DIST": "670.7803609",
+    "FIRST_Z": "408.9453"
+  },
+  {
+    "OBJECTID": "474",
+    "FIRST_DIST": "671.4104036",
+    "FIRST_Z": "408.8629"
+  },
+  {
+    "OBJECTID": "475",
+    "FIRST_DIST": "672.0405115",
+    "FIRST_Z": "408.7732"
+  },
+  {
+    "OBJECTID": "476",
+    "FIRST_DIST": "672.8802986",
+    "FIRST_Z": "408.655"
+  },
+  {
+    "OBJECTID": "477",
+    "FIRST_DIST": "673.5099918",
+    "FIRST_Z": "408.421"
+  },
+  {
+    "OBJECTID": "478",
+    "FIRST_DIST": "674.3500498",
+    "FIRST_Z": "408.0952"
+  },
+  {
+    "OBJECTID": "479",
+    "FIRST_DIST": "674.9915436",
+    "FIRST_Z": "407.843"
+  },
+  {
+    "OBJECTID": "480",
+    "FIRST_DIST": "675.513571",
+    "FIRST_Z": "407.6663"
+  },
+  {
+    "OBJECTID": "481",
+    "FIRST_DIST": "676.336433",
+    "FIRST_Z": "407.3895"
+  },
+  {
+    "OBJECTID": "482",
+    "FIRST_DIST": "677.0891257",
+    "FIRST_Z": "407.1388"
+  },
+  {
+    "OBJECTID": "483",
+    "FIRST_DIST": "678.5196311",
+    "FIRST_Z": "406.6684"
+  },
+  {
+    "OBJECTID": "484",
+    "FIRST_DIST": "679.9502245",
+    "FIRST_Z": "406.1997"
+  },
+  {
+    "OBJECTID": "485",
+    "FIRST_DIST": "681.38073",
+    "FIRST_Z": "405.7546"
+  },
+  {
+    "OBJECTID": "486",
+    "FIRST_DIST": "682.9447195",
+    "FIRST_Z": "405.5732"
+  },
+  {
+    "OBJECTID": "487",
+    "FIRST_DIST": "684.5086661",
+    "FIRST_Z": "405.3367"
+  },
+  {
+    "OBJECTID": "488",
+    "FIRST_DIST": "686.0726556",
+    "FIRST_Z": "404.7933"
+  },
+  {
+    "OBJECTID": "489",
+    "FIRST_DIST": "687.5551087",
+    "FIRST_Z": "404.0382"
+  },
+  {
+    "OBJECTID": "490",
+    "FIRST_DIST": "689.0374721",
+    "FIRST_Z": "403.3661"
+  },
+  {
+    "OBJECTID": "491",
+    "FIRST_DIST": "690.8657532",
+    "FIRST_Z": "402.8364"
+  },
+  {
+    "OBJECTID": "492",
+    "FIRST_DIST": "692.6939923",
+    "FIRST_Z": "402.6179"
+  },
+  {
+    "OBJECTID": "493",
+    "FIRST_DIST": "694.5010561",
+    "FIRST_Z": "402.2573"
+  },
+  {
+    "OBJECTID": "494",
+    "FIRST_DIST": "696.3079882",
+    "FIRST_Z": "401.8625"
+  },
+  {
+    "OBJECTID": "495",
+    "FIRST_DIST": "697.5191521",
+    "FIRST_Z": "401.5582"
+  },
+  {
+    "OBJECTID": "496",
+    "FIRST_DIST": "698.730316",
+    "FIRST_Z": "401.2182"
+  },
+  {
+    "OBJECTID": "497",
+    "FIRST_DIST": "699.9399702",
+    "FIRST_Z": "401.029"
+  },
+  {
+    "OBJECTID": "498",
+    "FIRST_DIST": "701.1489473",
+    "FIRST_Z": "400.8265"
+  },
+  {
+    "OBJECTID": "499",
+    "FIRST_DIST": "702.3570045",
+    "FIRST_Z": "400.6161"
+  },
+  {
+    "OBJECTID": "500",
+    "FIRST_DIST": "703.5644408",
+    "FIRST_Z": "400.4298"
+  },
+  {
+    "OBJECTID": "501",
+    "FIRST_DIST": "704.7715837",
+    "FIRST_Z": "400.1808"
+  },
+  {
+    "OBJECTID": "502",
+    "FIRST_DIST": "705.9784709",
+    "FIRST_Z": "400.0435"
+  },
+  {
+    "OBJECTID": "503",
+    "FIRST_DIST": "707.1851464",
+    "FIRST_Z": "400.0012"
+  },
+  {
+    "OBJECTID": "504",
+    "FIRST_DIST": "708.3919342",
+    "FIRST_Z": "399.8736"
+  },
+  {
+    "OBJECTID": "505",
+    "FIRST_DIST": "709.5986002",
+    "FIRST_Z": "399.7079"
+  },
+  {
+    "OBJECTID": "506",
+    "FIRST_DIST": "710.8054119",
+    "FIRST_Z": "399.6018"
+  },
+  {
+    "OBJECTID": "507",
+    "FIRST_DIST": "712.0122152",
+    "FIRST_Z": "399.5115"
+  },
+  {
+    "OBJECTID": "508",
+    "FIRST_DIST": "713.2190462",
+    "FIRST_Z": "399.4608"
+  },
+  {
+    "OBJECTID": "509",
+    "FIRST_DIST": "714.4256479",
+    "FIRST_Z": "399.3534"
+  },
+  {
+    "OBJECTID": "510",
+    "FIRST_DIST": "715.6321695",
+    "FIRST_Z": "399.2193"
+  },
+  {
+    "OBJECTID": "511",
+    "FIRST_DIST": "716.8383256",
+    "FIRST_Z": "399.3934"
+  },
+  {
+    "OBJECTID": "512",
+    "FIRST_DIST": "718.0442892",
+    "FIRST_Z": "399.5471"
+  },
+  {
+    "OBJECTID": "513",
+    "FIRST_DIST": "719.2499024",
+    "FIRST_Z": "399.4702"
+  },
+  {
+    "OBJECTID": "514",
+    "FIRST_DIST": "720.4554814",
+    "FIRST_Z": "399.534"
+  },
+  {
+    "OBJECTID": "515",
+    "FIRST_DIST": "721.6429545",
+    "FIRST_Z": "399.7129"
+  },
+  {
+    "OBJECTID": "516",
+    "FIRST_DIST": "722.8315809",
+    "FIRST_Z": "399.8106"
+  },
+  {
+    "OBJECTID": "517",
+    "FIRST_DIST": "724.0212892",
+    "FIRST_Z": "399.8922"
+  },
+  {
+    "OBJECTID": "518",
+    "FIRST_DIST": "725.212168",
+    "FIRST_Z": "400.09"
+  },
+  {
+    "OBJECTID": "519",
+    "FIRST_DIST": "726.4038452",
+    "FIRST_Z": "400.2157"
+  },
+  {
+    "OBJECTID": "520",
+    "FIRST_DIST": "727.595841",
+    "FIRST_Z": "400.3659"
+  },
+  {
+    "OBJECTID": "521",
+    "FIRST_DIST": "728.7876757",
+    "FIRST_Z": "400.5386"
+  },
+  {
+    "OBJECTID": "522",
+    "FIRST_DIST": "729.978931",
+    "FIRST_Z": "400.6234"
+  },
+  {
+    "OBJECTID": "523",
+    "FIRST_DIST": "731.1687513",
+    "FIRST_Z": "400.7441"
+  },
+  {
+    "OBJECTID": "524",
+    "FIRST_DIST": "732.3563137",
+    "FIRST_Z": "400.9805"
+  },
+  {
+    "OBJECTID": "525",
+    "FIRST_DIST": "733.5409912",
+    "FIRST_Z": "401.2351"
+  },
+  {
+    "OBJECTID": "526",
+    "FIRST_DIST": "734.7215532",
+    "FIRST_Z": "401.4215"
+  },
+  {
+    "OBJECTID": "527",
+    "FIRST_DIST": "735.8974835",
+    "FIRST_Z": "401.6056"
+  },
+  {
+    "OBJECTID": "528",
+    "FIRST_DIST": "737.068311",
+    "FIRST_Z": "401.7661"
+  },
+  {
+    "OBJECTID": "529",
+    "FIRST_DIST": "738.2346353",
+    "FIRST_Z": "401.8893"
+  },
+  {
+    "OBJECTID": "530",
+    "FIRST_DIST": "739.1116929",
+    "FIRST_Z": "401.9444"
+  },
+  {
+    "OBJECTID": "531",
+    "FIRST_DIST": "739.9891977",
+    "FIRST_Z": "401.9703"
+  },
+  {
+    "OBJECTID": "532",
+    "FIRST_DIST": "740.8678355",
+    "FIRST_Z": "401.9939"
+  },
+  {
+    "OBJECTID": "533",
+    "FIRST_DIST": "741.7481756",
+    "FIRST_Z": "401.9863"
+  },
+  {
+    "OBJECTID": "534",
+    "FIRST_DIST": "742.6306833",
+    "FIRST_Z": "401.9529"
+  },
+  {
+    "OBJECTID": "535",
+    "FIRST_DIST": "743.5153226",
+    "FIRST_Z": "401.9173"
+  },
+  {
+    "OBJECTID": "536",
+    "FIRST_DIST": "744.4023726",
+    "FIRST_Z": "401.8855"
+  },
+  {
+    "OBJECTID": "537",
+    "FIRST_DIST": "745.2919027",
+    "FIRST_Z": "401.8877"
+  },
+  {
+    "OBJECTID": "538",
+    "FIRST_DIST": "746.1838782",
+    "FIRST_Z": "401.8882"
+  },
+  {
+    "OBJECTID": "539",
+    "FIRST_DIST": "747.1175783",
+    "FIRST_Z": "401.8486"
+  },
+  {
+    "OBJECTID": "540",
+    "FIRST_DIST": "748.1565704",
+    "FIRST_Z": "401.8028"
+  },
+  {
+    "OBJECTID": "541",
+    "FIRST_DIST": "749.2776126",
+    "FIRST_Z": "401.6422"
+  },
+  {
+    "OBJECTID": "542",
+    "FIRST_DIST": "750.4542419",
+    "FIRST_Z": "401.4678"
+  },
+  {
+    "OBJECTID": "543",
+    "FIRST_DIST": "751.6599504",
+    "FIRST_Z": "401.3062"
+  },
+  {
+    "OBJECTID": "544",
+    "FIRST_DIST": "753.0934565",
+    "FIRST_Z": "401.1251"
+  },
+  {
+    "OBJECTID": "545",
+    "FIRST_DIST": "754.5269686",
+    "FIRST_Z": "400.9465"
+  },
+  {
+    "OBJECTID": "546",
+    "FIRST_DIST": "756.4748466",
+    "FIRST_Z": "400.7274"
+  },
+  {
+    "OBJECTID": "547",
+    "FIRST_DIST": "758.4227326",
+    "FIRST_Z": "400.5132"
+  },
+  {
+    "OBJECTID": "548",
+    "FIRST_DIST": "759.0984392",
+    "FIRST_Z": "400.4405"
+  },
+  {
+    "OBJECTID": "549",
+    "FIRST_DIST": "759.3305912",
+    "FIRST_Z": "400.4152"
+  },
+  {
+    "OBJECTID": "550",
+    "FIRST_DIST": "761.2244447",
+    "FIRST_Z": "400.2741"
+  },
+  {
+    "OBJECTID": "551",
+    "FIRST_DIST": "763.118398",
+    "FIRST_Z": "400.2034"
+  },
+  {
+    "OBJECTID": "552",
+    "FIRST_DIST": "763.8280246",
+    "FIRST_Z": "400.1783"
+  },
+  {
+    "OBJECTID": "553",
+    "FIRST_DIST": "765.2482685",
+    "FIRST_Z": "400.0685"
+  },
+  {
+    "OBJECTID": "554",
+    "FIRST_DIST": "766.6687275",
+    "FIRST_Z": "399.9624"
+  },
+  {
+    "OBJECTID": "555",
+    "FIRST_DIST": "767.6148591",
+    "FIRST_Z": "399.9234"
+  },
+  {
+    "OBJECTID": "556",
+    "FIRST_DIST": "769.5086282",
+    "FIRST_Z": "399.8402"
+  },
+  {
+    "OBJECTID": "557",
+    "FIRST_DIST": "771.402494",
+    "FIRST_Z": "399.7786"
+  },
+  {
+    "OBJECTID": "558",
+    "FIRST_DIST": "773.0374384",
+    "FIRST_Z": "399.7179"
+  },
+  {
+    "OBJECTID": "559",
+    "FIRST_DIST": "774.6723828",
+    "FIRST_Z": "399.6567"
+  },
+  {
+    "OBJECTID": "560",
+    "FIRST_DIST": "776.2062215",
+    "FIRST_Z": "399.6578"
+  },
+  {
+    "OBJECTID": "561",
+    "FIRST_DIST": "777.7401575",
+    "FIRST_Z": "399.6176"
+  },
+  {
+    "OBJECTID": "562",
+    "FIRST_DIST": "779.4399438",
+    "FIRST_Z": "399.5841"
+  },
+  {
+    "OBJECTID": "563",
+    "FIRST_DIST": "780.6299522",
+    "FIRST_Z": "399.5598"
+  },
+  {
+    "OBJECTID": "564",
+    "FIRST_DIST": "781.8199323",
+    "FIRST_Z": "399.551"
+  },
+  {
+    "OBJECTID": "565",
+    "FIRST_DIST": "782.8398488",
+    "FIRST_Z": "399.5459"
+  },
+  {
+    "OBJECTID": "566",
+    "FIRST_DIST": "783.8597356",
+    "FIRST_Z": "399.5363"
+  },
+  {
+    "OBJECTID": "567",
+    "FIRST_DIST": "785.2200356",
+    "FIRST_Z": "399.5247"
+  },
+  {
+    "OBJECTID": "568",
+    "FIRST_DIST": "786.9198744",
+    "FIRST_Z": "399.5349"
+  },
+  {
+    "OBJECTID": "569",
+    "FIRST_DIST": "788.6196793",
+    "FIRST_Z": "399.5457"
+  },
+  {
+    "OBJECTID": "570",
+    "FIRST_DIST": "790.0396271",
+    "FIRST_Z": "399.5331"
+  },
+  {
+    "OBJECTID": "571",
+    "FIRST_DIST": "791.4596338",
+    "FIRST_Z": "399.548"
+  },
+  {
+    "OBJECTID": "572",
+    "FIRST_DIST": "793.3720865",
+    "FIRST_Z": "399.5499"
+  },
+  {
+    "OBJECTID": "573",
+    "FIRST_DIST": "794.4353959",
+    "FIRST_Z": "399.5627"
+  },
+  {
+    "OBJECTID": "574",
+    "FIRST_DIST": "795.3272542",
+    "FIRST_Z": "399.5741"
+  },
+  {
+    "OBJECTID": "575",
+    "FIRST_DIST": "796.1172039",
+    "FIRST_Z": "399.587"
+  },
+  {
+    "OBJECTID": "576",
+    "FIRST_DIST": "796.7458986",
+    "FIRST_Z": "399.5981"
+  },
+  {
+    "OBJECTID": "577",
+    "FIRST_DIST": "797.4633893",
+    "FIRST_Z": "399.609"
+  },
+  {
+    "OBJECTID": "578",
+    "FIRST_DIST": "798.8084631",
+    "FIRST_Z": "399.7043"
+  },
+  {
+    "OBJECTID": "579",
+    "FIRST_DIST": "800.1934701",
+    "FIRST_Z": "399.7925"
+  },
+  {
+    "OBJECTID": "580",
+    "FIRST_DIST": "801.4517428",
+    "FIRST_Z": "399.8273"
+  },
+  {
+    "OBJECTID": "581",
+    "FIRST_DIST": "802.6047287",
+    "FIRST_Z": "399.8693"
+  },
+  {
+    "OBJECTID": "582",
+    "FIRST_DIST": "803.9266613",
+    "FIRST_Z": "399.9017"
+  },
+  {
+    "OBJECTID": "583",
+    "FIRST_DIST": "805.3769472",
+    "FIRST_Z": "399.9526"
+  },
+  {
+    "OBJECTID": "584",
+    "FIRST_DIST": "806.9742113",
+    "FIRST_Z": "400.088"
+  },
+  {
+    "OBJECTID": "585",
+    "FIRST_DIST": "808.1700242",
+    "FIRST_Z": "400.1937"
+  },
+  {
+    "OBJECTID": "586",
+    "FIRST_DIST": "809.700404",
+    "FIRST_Z": "400.3042"
+  },
+  {
+    "OBJECTID": "587",
+    "FIRST_DIST": "810.9728005",
+    "FIRST_Z": "400.4135"
+  },
+  {
+    "OBJECTID": "588",
+    "FIRST_DIST": "812.2423232",
+    "FIRST_Z": "400.4922"
+  },
+  {
+    "OBJECTID": "589",
+    "FIRST_DIST": "812.8758551",
+    "FIRST_Z": "400.549"
+  },
+  {
+    "OBJECTID": "590",
+    "FIRST_DIST": "814.1392095",
+    "FIRST_Z": "400.6479"
+  },
+  {
+    "OBJECTID": "591",
+    "FIRST_DIST": "814.7688218",
+    "FIRST_Z": "400.698"
+  },
+  {
+    "OBJECTID": "592",
+    "FIRST_DIST": "815.8606283",
+    "FIRST_Z": "400.7877"
+  },
+  {
+    "OBJECTID": "593",
+    "FIRST_DIST": "816.8058537",
+    "FIRST_Z": "400.8932"
+  },
+  {
+    "OBJECTID": "594",
+    "FIRST_DIST": "817.4997657",
+    "FIRST_Z": "400.9848"
+  },
+  {
+    "OBJECTID": "595",
+    "FIRST_DIST": "818.6146749",
+    "FIRST_Z": "401.1233"
+  },
+  {
+    "OBJECTID": "596",
+    "FIRST_DIST": "819.8933238",
+    "FIRST_Z": "401.2711"
+  },
+  {
+    "OBJECTID": "597",
+    "FIRST_DIST": "821.7086726",
+    "FIRST_Z": "401.4484"
+  },
+  {
+    "OBJECTID": "598",
+    "FIRST_DIST": "822.8853199",
+    "FIRST_Z": "401.5574"
+  },
+  {
+    "OBJECTID": "599",
+    "FIRST_DIST": "824.3738737",
+    "FIRST_Z": "401.6951"
+  },
+  {
+    "OBJECTID": "600",
+    "FIRST_DIST": "826.2490885",
+    "FIRST_Z": "401.6481"
+  },
+  {
+    "OBJECTID": "601",
+    "FIRST_DIST": "827.9366385",
+    "FIRST_Z": "401.6578"
+  },
+  {
+    "OBJECTID": "602",
+    "FIRST_DIST": "829.6177683",
+    "FIRST_Z": "401.6892"
+  },
+  {
+    "OBJECTID": "603",
+    "FIRST_DIST": "830.464744",
+    "FIRST_Z": "401.6868"
+  },
+  {
+    "OBJECTID": "604",
+    "FIRST_DIST": "832.339793",
+    "FIRST_Z": "401.7239"
+  },
+  {
+    "OBJECTID": "605",
+    "FIRST_DIST": "834.214842",
+    "FIRST_Z": "401.7676"
+  },
+  {
+    "OBJECTID": "606",
+    "FIRST_DIST": "835.7205838",
+    "FIRST_Z": "401.8316"
+  },
+  {
+    "OBJECTID": "607",
+    "FIRST_DIST": "837.2263718",
+    "FIRST_Z": "401.9813"
+  },
+  {
+    "OBJECTID": "608",
+    "FIRST_DIST": "838.7321137",
+    "FIRST_Z": "402.1317"
+  },
+  {
+    "OBJECTID": "609",
+    "FIRST_DIST": "840.2258066",
+    "FIRST_Z": "402.2753"
+  },
+  {
+    "OBJECTID": "610",
+    "FIRST_DIST": "841.7194117",
+    "FIRST_Z": "402.454"
+  },
+  {
+    "OBJECTID": "611",
+    "FIRST_DIST": "843.0311164",
+    "FIRST_Z": "402.6353"
+  },
+  {
+    "OBJECTID": "612",
+    "FIRST_DIST": "844.2057936",
+    "FIRST_Z": "402.8216"
+  },
+  {
+    "OBJECTID": "613",
+    "FIRST_DIST": "845.3804708",
+    "FIRST_Z": "403.0244"
+  },
+  {
+    "OBJECTID": "614",
+    "FIRST_DIST": "846.5517194",
+    "FIRST_Z": "403.2332"
+  },
+  {
+    "OBJECTID": "615",
+    "FIRST_DIST": "847.722883",
+    "FIRST_Z": "403.4813"
+  },
+  {
+    "OBJECTID": "616",
+    "FIRST_DIST": "848.8935691",
+    "FIRST_Z": "403.729"
+  },
+  {
+    "OBJECTID": "617",
+    "FIRST_DIST": "850.0633532",
+    "FIRST_Z": "403.8637"
+  },
+  {
+    "OBJECTID": "618",
+    "FIRST_DIST": "851.2330816",
+    "FIRST_Z": "403.9944"
+  },
+  {
+    "OBJECTID": "619",
+    "FIRST_DIST": "852.4013819",
+    "FIRST_Z": "404.1361"
+  },
+  {
+    "OBJECTID": "620",
+    "FIRST_DIST": "853.5683105",
+    "FIRST_Z": "404.2547"
+  },
+  {
+    "OBJECTID": "621",
+    "FIRST_DIST": "854.7335474",
+    "FIRST_Z": "404.3715"
+  },
+  {
+    "OBJECTID": "622",
+    "FIRST_DIST": "855.9077045",
+    "FIRST_Z": "404.4948"
+  },
+  {
+    "OBJECTID": "623",
+    "FIRST_DIST": "857.0804377",
+    "FIRST_Z": "404.6558"
+  },
+  {
+    "OBJECTID": "624",
+    "FIRST_DIST": "858.2514774",
+    "FIRST_Z": "404.7914"
+  },
+  {
+    "OBJECTID": "625",
+    "FIRST_DIST": "859.4216275",
+    "FIRST_Z": "404.8619"
+  },
+  {
+    "OBJECTID": "626",
+    "FIRST_DIST": "860.5912645",
+    "FIRST_Z": "404.9493"
+  },
+  {
+    "OBJECTID": "627",
+    "FIRST_DIST": "861.7605025",
+    "FIRST_Z": "405.0779"
+  },
+  {
+    "OBJECTID": "628",
+    "FIRST_DIST": "862.9301356",
+    "FIRST_Z": "405.1759"
+  },
+  {
+    "OBJECTID": "629",
+    "FIRST_DIST": "864.1004955",
+    "FIRST_Z": "405.3408"
+  },
+  {
+    "OBJECTID": "630",
+    "FIRST_DIST": "865.2720022",
+    "FIRST_Z": "405.4559"
+  },
+  {
+    "OBJECTID": "631",
+    "FIRST_DIST": "866.4449951",
+    "FIRST_Z": "405.5802"
+  },
+  {
+    "OBJECTID": "632",
+    "FIRST_DIST": "867.619844",
+    "FIRST_Z": "405.7156"
+  },
+  {
+    "OBJECTID": "633",
+    "FIRST_DIST": "868.7962879",
+    "FIRST_Z": "405.7927"
+  },
+  {
+    "OBJECTID": "634",
+    "FIRST_DIST": "869.83197",
+    "FIRST_Z": "405.8511"
+  },
+  {
+    "OBJECTID": "635",
+    "FIRST_DIST": "871.3869154",
+    "FIRST_Z": "405.9478"
+  },
+  {
+    "OBJECTID": "636",
+    "FIRST_DIST": "872.9417285",
+    "FIRST_Z": "406.1381"
+  },
+  {
+    "OBJECTID": "637",
+    "FIRST_DIST": "873.9771083",
+    "FIRST_Z": "406.2308"
+  },
+  {
+    "OBJECTID": "638",
+    "FIRST_DIST": "875.0092807",
+    "FIRST_Z": "406.3308"
+  },
+  {
+    "OBJECTID": "639",
+    "FIRST_DIST": "876.0413642",
+    "FIRST_Z": "406.43"
+  },
+  {
+    "OBJECTID": "640",
+    "FIRST_DIST": "877.0695304",
+    "FIRST_Z": "406.5449"
+  },
+  {
+    "OBJECTID": "641",
+    "FIRST_DIST": "878.0947119",
+    "FIRST_Z": "406.6705"
+  },
+  {
+    "OBJECTID": "642",
+    "FIRST_DIST": "879.1172066",
+    "FIRST_Z": "406.7907"
+  },
+  {
+    "OBJECTID": "643",
+    "FIRST_DIST": "880.137079",
+    "FIRST_Z": "406.8998"
+  },
+  {
+    "OBJECTID": "644",
+    "FIRST_DIST": "881.1555831",
+    "FIRST_Z": "406.9931"
+  },
+  {
+    "OBJECTID": "645",
+    "FIRST_DIST": "882.4005706",
+    "FIRST_Z": "407.0464"
+  },
+  {
+    "OBJECTID": "646",
+    "FIRST_DIST": "883.650481",
+    "FIRST_Z": "407.055"
+  },
+  {
+    "OBJECTID": "647",
+    "FIRST_DIST": "884.9067385",
+    "FIRST_Z": "407.0583"
+  },
+  {
+    "OBJECTID": "648",
+    "FIRST_DIST": "886.1687771",
+    "FIRST_Z": "407.0956"
+  },
+  {
+    "OBJECTID": "649",
+    "FIRST_DIST": "887.436174",
+    "FIRST_Z": "407.1374"
+  },
+  {
+    "OBJECTID": "650",
+    "FIRST_DIST": "888.709836",
+    "FIRST_Z": "407.1388"
+  },
+  {
+    "OBJECTID": "651",
+    "FIRST_DIST": "889.983498",
+    "FIRST_Z": "407.1565"
+  },
+  {
+    "OBJECTID": "652",
+    "FIRST_DIST": "891.2643547",
+    "FIRST_Z": "407.1583"
+  },
+  {
+    "OBJECTID": "653",
+    "FIRST_DIST": "892.5451546",
+    "FIRST_Z": "407.09"
+  },
+  {
+    "OBJECTID": "654",
+    "FIRST_DIST": "893.8322926",
+    "FIRST_Z": "407.0526"
+  },
+  {
+    "OBJECTID": "655",
+    "FIRST_DIST": "895.1193756",
+    "FIRST_Z": "407.0589"
+  },
+  {
+    "OBJECTID": "656",
+    "FIRST_DIST": "896.4119387",
+    "FIRST_Z": "406.9699"
+  },
+  {
+    "OBJECTID": "657",
+    "FIRST_DIST": "897.704448",
+    "FIRST_Z": "406.8976"
+  },
+  {
+    "OBJECTID": "658",
+    "FIRST_DIST": "899.2772635",
+    "FIRST_Z": "406.9032"
+  },
+  {
+    "OBJECTID": "659",
+    "FIRST_DIST": "900.8501319",
+    "FIRST_Z": "406.898"
+  },
+  {
+    "OBJECTID": "660",
+    "FIRST_DIST": "902.4228626",
+    "FIRST_Z": "406.8838"
+  },
+  {
+    "OBJECTID": "661",
+    "FIRST_DIST": "903.9956781",
+    "FIRST_Z": "406.8442"
+  },
+  {
+    "OBJECTID": "662",
+    "FIRST_DIST": "905.2216643",
+    "FIRST_Z": "406.7913"
+  },
+  {
+    "OBJECTID": "663",
+    "FIRST_DIST": "906.4254438",
+    "FIRST_Z": "406.7274"
+  },
+  {
+    "OBJECTID": "664",
+    "FIRST_DIST": "907.5963277",
+    "FIRST_Z": "406.6785"
+  },
+  {
+    "OBJECTID": "665",
+    "FIRST_DIST": "908.7215145",
+    "FIRST_Z": "406.6639"
+  },
+  {
+    "OBJECTID": "666",
+    "FIRST_DIST": "909.7865936",
+    "FIRST_Z": "406.6621"
+  },
+  {
+    "OBJECTID": "667",
+    "FIRST_DIST": "910.7801737",
+    "FIRST_Z": "406.6503"
+  },
+  {
+    "OBJECTID": "668",
+    "FIRST_DIST": "911.16564",
+    "FIRST_Z": "406.6429"
+  },
+  {
+    "OBJECTID": "669",
+    "FIRST_DIST": "911.5402345",
+    "FIRST_Z": "406.6341"
+  },
+  {
+    "OBJECTID": "670",
+    "FIRST_DIST": "911.905452",
+    "FIRST_Z": "406.6243"
+  },
+  {
+    "OBJECTID": "671",
+    "FIRST_DIST": "912.2631746",
+    "FIRST_Z": "406.6148"
+  },
+  {
+    "OBJECTID": "672",
+    "FIRST_DIST": "912.615586",
+    "FIRST_Z": "406.6052"
+  },
+  {
+    "OBJECTID": "673",
+    "FIRST_DIST": "912.9656105",
+    "FIRST_Z": "406.5955"
+  },
+  {
+    "OBJECTID": "674",
+    "FIRST_DIST": "913.3157113",
+    "FIRST_Z": "406.5853"
+  },
+  {
+    "OBJECTID": "675",
+    "FIRST_DIST": "913.6689757",
+    "FIRST_Z": "406.5787"
+  },
+  {
+    "OBJECTID": "676",
+    "FIRST_DIST": "914.0278063",
+    "FIRST_Z": "406.5754"
+  },
+  {
+    "OBJECTID": "677",
+    "FIRST_DIST": "914.3946156",
+    "FIRST_Z": "406.572"
+  },
+  {
+    "OBJECTID": "678",
+    "FIRST_DIST": "914.7709293",
+    "FIRST_Z": "406.5687"
+  },
+  {
+    "OBJECTID": "679",
+    "FIRST_DIST": "915.1583058",
+    "FIRST_Z": "406.5655"
+  },
+  {
+    "OBJECTID": "680",
+    "FIRST_DIST": "915.5573963",
+    "FIRST_Z": "406.5629"
+  },
+  {
+    "OBJECTID": "681",
+    "FIRST_DIST": "915.9687599",
+    "FIRST_Z": "406.5622"
+  },
+  {
+    "OBJECTID": "682",
+    "FIRST_DIST": "917.0703508",
+    "FIRST_Z": "406.5615"
+  },
+  {
+    "OBJECTID": "683",
+    "FIRST_DIST": "918.2385158",
+    "FIRST_Z": "406.5737"
+  },
+  {
+    "OBJECTID": "684",
+    "FIRST_DIST": "919.4566317",
+    "FIRST_Z": "406.5928"
+  },
+  {
+    "OBJECTID": "685",
+    "FIRST_DIST": "920.7096498",
+    "FIRST_Z": "406.5806"
+  },
+  {
+    "OBJECTID": "686",
+    "FIRST_DIST": "921.985732",
+    "FIRST_Z": "406.5653"
+  },
+  {
+    "OBJECTID": "687",
+    "FIRST_DIST": "923.2800334",
+    "FIRST_Z": "406.5489"
+  },
+  {
+    "OBJECTID": "688",
+    "FIRST_DIST": "924.5742992",
+    "FIRST_Z": "406.5189"
+  },
+  {
+    "OBJECTID": "689",
+    "FIRST_DIST": "926.5190125",
+    "FIRST_Z": "406.4852"
+  },
+  {
+    "OBJECTID": "690",
+    "FIRST_DIST": "928.4636914",
+    "FIRST_Z": "406.5009"
+  },
+  {
+    "OBJECTID": "691",
+    "FIRST_DIST": "930.4084985",
+    "FIRST_Z": "406.525"
+  },
+  {
+    "OBJECTID": "692",
+    "FIRST_DIST": "932.3531774",
+    "FIRST_Z": "406.4906"
+  },
+  {
+    "OBJECTID": "693",
+    "FIRST_DIST": "934.2978907",
+    "FIRST_Z": "406.4464"
+  },
+  {
+    "OBJECTID": "694",
+    "FIRST_DIST": "936.2425696",
+    "FIRST_Z": "406.4165"
+  },
+  {
+    "OBJECTID": "695",
+    "FIRST_DIST": "938.0951462",
+    "FIRST_Z": "406.3684"
+  },
+  {
+    "OBJECTID": "696",
+    "FIRST_DIST": "939.9478166",
+    "FIRST_Z": "406.3438"
+  }
+]

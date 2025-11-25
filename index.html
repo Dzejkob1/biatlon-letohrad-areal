@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Biatlon Letohrad – Interaktivní mapa</title>
+
+  <!-- Leaflet -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <!-- Styl -->
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="main-container">
+    <!-- 🟦 Boční panel -->
+    <aside id="sidebar">
+      <header>
+        <div class="header-text">
+          <h1>BIATLON LETOHRAD</h1>
+          <p>běžkařské tratě</p>
+        </div>
+      </header>
+<div class="sidebar-content">
+
+  <div class="trasy-box">
+    <h3>TRATĚ</h3>
+
+    <label class="trasa-item">
+      <input type="checkbox" id="komplet">
+      1 900m
+      <span class="legend-line legend-komplet"></span>
+    </label>
+
+    <label class="trasa-item">
+  <input type="checkbox" id="kolo_1_5">
+  1 450m
+  <span class="legend-line legend-k4"></span>
+</label>
+
+<label class="trasa-item">
+  <input type="checkbox" id="kolo_1_45">
+  1 400m
+  <span class="legend-line legend-k5"></span>
+</label>
+
+    <label class="trasa-item">
+      <input type="checkbox" id="hornikolo">
+      1 000m
+      <span class="legend-line legend-k1"></span>
+    </label>
+
+    <label class="trasa-item">
+      <input type="checkbox" id="dolnikolo">
+      700m
+      <span class="legend-line legend-k2"></span>
+    </label>
+
+    <label class="trasa-item">
+      <input type="checkbox" id="novekolo">
+      500m
+      <span class="legend-line legend-k3"></span>
+    </label>
+    
+  </div>
+
+  <button id="resetView">Zpět na areál</button>
+  <button id="fullMap">Na mapu</button>
+
+  <div class="social-links">
+  <a href="https://www.instagram.com/biatlon_letohrad/" target="_blank" class="social-link">
+    <img src="instagram.png" alt="Instagram" />
+  </a>
+  <a href="https://www.biatlonletohrad.cz/cs/" target="_blank" class="social-link">
+    <img src="link.png" alt="Web" />
+  </a>
+</div>
+
+</div>
+
+      <!-- 🔵 Logo dole -->
+      <div class="sidebar-logo">
+        <img src="logo.png" alt="Logo Biatlon Letohrad" />
+      </div>
+    </aside>
+
+    <!-- 🗺️ Mapový kontejner -->
+    <div id="map-container">
+      <div id="map"></div>
+    </div>
+  </div>
+
+  <div id="profileContainer" style="height: 250px; display: none;">
+    <canvas id="elevationChart"></canvas>
+  </div>
+  
+  <script src="https://rawcdn.githack.com/bbecquet/Leaflet.RotatedMarker/master/leaflet.rotatedMarker.js"></script>
+
+
+  <!-- Skript až po HTML -->
+  <script src="script.js"></script>
+</body>
+</html>
