@@ -8,7 +8,7 @@ const ELEVATION_CHART_CONFIG = {
   tension: 0.15,
   pointRadius: 2,
 
-  title: "Výškový profil trati (m n. m. / km)",
+  title: "Výškový profil tratě (m n. m. / km)",
   titleFontSize: 16,
 
   xAxisLabel: "Vzdálenost (km)",
@@ -26,7 +26,7 @@ const ELEVATION_CHART_CONFIG = {
 
 
 // 📍 Souřadnice Letohrad
-const LETOHRAD_COORDS = [50.04229263166373, 16.515718020675035];
+const LETOHRAD_COORDS = [50.04220263166373, 16.516478020675035];
 const INITIAL_ZOOM = 15;
 
 // STAVOVÉ PROMĚNNÉ
@@ -164,22 +164,22 @@ const polyCoords9 = [
 // Ubytovací marker ikona
 const ubytovaniIcon = L.icon({
   iconUrl: 'ubytovani.png',
-  iconSize: [18, 18],
-  iconAnchor: [9, 9]
+  iconSize: [24, 24],
+  iconAnchor: [12, 12]
 });
 const UB_SOURADNICE = [50.04235, 16.51584];
 
 const parkingIcon = L.icon({
   iconUrl: 'parking.png',
-  iconSize: [18, 18],
-  iconAnchor: [9, 9]
+  iconSize: [24, 24],
+  iconAnchor: [12, 12]
 });
 const PA_SOURADNICE = [50.04250, 16.51492];
 
 const targetIcon = L.icon({
   iconUrl: 'target.png',
-  iconSize: [18, 18],
-  iconAnchor: [9, 9]
+  iconSize: [30, 30],
+  iconAnchor: [15, 15]
 });
 const TG_SOURADNICE = [50.04292, 16.51672];
 
@@ -326,9 +326,6 @@ if (podkladBounds) {
 
     // nastavíme výchozí zoom
     map.setZoom(startZoom);
-
-    // vycentrování na celý areál
-    map.fitBounds(originalMaxBounds);
 }
 
   // skryt control pokud existuje
@@ -379,8 +376,7 @@ function activateFullMapMode() {
 
 // --- Funkce pro návrat na areál (tl. Zpět na areál)
 function resetMapView() {
-  if (!podkladBounds) return;
-  map.setView(podkladBounds.getCenter(), 17);
+  map.setView([50.04220263166373, 16.516478020675035], 18);
 }
 
 // --- Načtení podkladu
@@ -766,17 +762,17 @@ L.marker(TG_SOURADNICE, { icon: targetIcon, pane: 'markerPane' })
 
 // Pole souřadnic pro více šipek
 const markersData = [
-  { coords: [50.04198, 16.51735], popup: 'Marker 1', angle: 0 },
-  { coords: [50.04154, 16.51455], popup: 'Marker 2', angle: 183 },
-  { coords: [50.04191, 16.51505], popup: 'Marker 3', angle: 180 },
-  { coords: [50.04280, 16.51615], popup: 'Marker 4', angle: 65 },
-  { coords: [50.04175, 16.51674], popup: 'Marker 4', angle: 288 }
+  { coords: [50.04202, 16.51735], popup: 'Marker 1', angle: 0 },
+  { coords: [50.04150, 16.51455], popup: 'Marker 2', angle: 183 },
+  { coords: [50.04187, 16.51505], popup: 'Marker 3', angle: 180 },
+  { coords: [50.04280, 16.51619], popup: 'Marker 4', angle: 65 },
+  { coords: [50.04175, 16.51667], popup: 'Marker 4', angle: 288 }
 ];
 
 const svgMarker = L.icon({
   iconUrl: 'arrow.svg',
-  iconSize: [16, 16],
-  iconAnchor: [16, 16]
+  iconSize: [20, 20],
+  iconAnchor: [20, 20]
 });
 
 markersData.forEach(marker => {
