@@ -1,6 +1,3 @@
-// ==============================================
-// 🎨 KONFIGURACE VÝŠKOVÉHO GRAFU – UPRAVUJ SI SÁM
-// ==============================================
 const ELEVATION_CHART_CONFIG = {
   lineColor: "#1976d2",
   fillColor: "rgba(25,118,210,0.18)",
@@ -23,13 +20,10 @@ const ELEVATION_CHART_CONFIG = {
   showGridX: true,
   showGridY: true
 };
-
-
 // 📍 Souřadnice Letohrad
 const LETOHRAD_COORDS = [50.04220263166373, 16.516478020675035];
 const INITIAL_ZOOM = 15;
 
-// STAVOVÉ PROMĚNNÉ
 let fullMapMode = false;
 let originalMaxBounds = null;
 let polygonLayers = [];
@@ -41,10 +35,8 @@ let elevationChart = null;
 let elevationMarker = null;
 let currentProfilePoints = [];
 
-// 🗺️ Inicializace mapy
 const map = L.map('map').setView(LETOHRAD_COORDS, INITIAL_ZOOM);
 
-// Podkladové dlaždice
 var CartoDB_Positron = L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
 	attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
 	subdomains: 'abcd',
@@ -65,91 +57,35 @@ const fullMapBtn = document.getElementById("fullMap");
 //POPUP POLYGONY
 //hlavní budova
 const polyCoords = [
-  [50.042372563000072,16.515632354000047],
-  [50.042444606000061,16.51596016700006],
-  [50.042324953000048,16.516023570000073],
-  [50.042307906000076,16.515946002000078],
-  [50.042244893000031, 16.51597939100003],
-  [50.042223030000059, 16.51587991100007],
-  [50.042280540000036, 16.515849437000043],
-  [50.042245524000066, 16.515690104000043],
-  [50.042372563000072, 16.515632354000047]
+  [50.042372563000072,16.515632354000047],[50.042444606000061,16.51596016700006],[50.042324953000048,16.516023570000073],[50.042307906000076,16.515946002000078],[50.042244893000031, 16.51597939100003],[50.042223030000059, 16.51587991100007],[50.042280540000036, 16.515849437000043],[50.042245524000066, 16.515690104000043],[50.042372563000072, 16.515632354000047]
 ];
 //závodní kacelář
 const polyCoords1 = [
-  [50.04255243800003,16.516802178000034],
-  [50.042622124000047,16.517014403000076],
-  [50.042544987000042,16.517076480000071],
-  [50.042478257000027,16.516859848000024],
-  [50.04255243800003, 16.516802178000034],
+  [50.04255243800003,16.516802178000034],[50.042622124000047,16.517014403000076],[50.042544987000042,16.517076480000071],[50.042478257000027,16.516859848000024],[50.04255243800003, 16.516802178000034],
 ];
 //Buňky + kancelář
 const polyCoords2 = [
-  [50.04266892000004,16.515799209000022],
-  [50.042602290000048,16.515870621000033],
-  [50.042537750000065,16.515708066000059],
-  [50.042611062000049,16.515642865000075],
-  [50.04266892000004,16.515799209000022]
+  [50.04266892000004,16.515799209000022],[50.042602290000048,16.515870621000033],[50.042537750000065,16.515708066000059],[50.042611062000049,16.515642865000075],[50.04266892000004,16.515799209000022]
 ];
 //Buňky + VIP
 const polyCoords3 = [
-   [ 50.043012043000033, 16.515836694000029], 
-   [ 50.042970192000041, 16.515853724000067], 
-   [ 50.042953127000033, 16.515860668000073], 
-   [ 50.042855383000074, 16.515281507000054], 
-   [ 50.042930948000048, 16.515252276000069], 
-   [ 50.043028453000034, 16.515830017000042], 
-   [ 50.043012043000033, 16.515836694000029]
+   [ 50.043012043000033, 16.515836694000029], [ 50.042970192000041, 16.515853724000067], [ 50.042953127000033, 16.515860668000073], [ 50.042855383000074, 16.515281507000054], [ 50.042930948000048, 16.515252276000069], [ 50.043028453000034, 16.515830017000042], [ 50.043012043000033, 16.515836694000029]
 ];
 //Střelnice
 const polyCoords4 = [
-  [ 50.043124930000033, 16.516206894000049 ], 
-  [ 50.04331798700008 , 16.51681157400003,], 
-  [ 50.042740625000079, 16.517259113000023 ], 
-  [ 50.042546500000071, 16.516655269000069 ], 
-  [ 50.043124930000033, 16.516206894000049 ]
+  [ 50.043124930000033, 16.516206894000049 ], [ 50.04331798700008 , 16.51681157400003,], [ 50.042740625000079, 16.517259113000023 ], [ 50.042546500000071, 16.516655269000069 ], [ 50.043124930000033, 16.516206894000049 ]
 ];
 //Posilovna
 const polyCoords5 = [
-  [50.042646189000038,16.516208050000046],
-  [50.042554916000029,16.516283041000065],
-  [50.042514636000078,16.516156183000078],
-  [50.042607215000032,16.516085305000047],
-  [50.042646189000038,16.516208050000046]
+  [50.042646189000038,16.516208050000046],[50.042554916000029,16.516283041000065],[50.042514636000078,16.516156183000078],[50.042607215000032,16.516085305000047],[50.042646189000038,16.516208050000046]
 ];
 // Parkoviště
 const polyCoords6 = [
-  [ 50.042398004000063, 16.514712548000034 ], 
-  [ 50.042424612000048, 16.514708239000072 ], 
-  [ 50.042452425000079, 16.514703349000058 ], 
-  [ 50.042486498414107, 16.514713148050141 ], 
-  [ 50.042521592901757, 16.514718187480987 ], 
-  [ 50.042557046882784, 16.514718372292268 ], 
-  [ 50.042592192000029, 16.514713699000026 ], 
-  [ 50.042730605000031, 16.514583149000032 ], 
-  [ 50.04278273500006 , 16.514749456000061], 
-  [ 50.042697517000079, 16.514866801000039 ], 
-  [ 50.042458219000082, 16.515238196000041 ], 
-  [ 50.042417628771467, 16.515173445749085 ], 
-  [ 50.042382916512132, 16.515105363293856 ], 
-  [ 50.042354353577103, 16.515034480853146 ], 
-  [ 50.042332163250499, 16.514961352533984 ], 
-  [ 50.042316519000053, 16.514886550000028 ], 
-  [ 50.042303309770844, 16.514811912161342 ], 
-  [ 50.04229597281676 , 16.514736470397015], 
-  [ 50.042294553000033, 16.51466068600007 ], 
-  [ 50.042391183000063, 16.514647855000078 ], 
-  [ 50.042398004000063, 16.514712548000034 ]
+  [ 50.042398004000063, 16.514712548000034 ], [ 50.042424612000048, 16.514708239000072 ], [ 50.042452425000079, 16.514703349000058 ], [ 50.042486498414107, 16.514713148050141 ], [ 50.042521592901757, 16.514718187480987 ], [ 50.042557046882784, 16.514718372292268 ], [ 50.042592192000029, 16.514713699000026 ], [ 50.042730605000031, 16.514583149000032 ], [ 50.04278273500006 , 16.514749456000061], [ 50.042697517000079, 16.514866801000039 ], [ 50.042458219000082, 16.515238196000041 ], [ 50.042417628771467, 16.515173445749085 ], [ 50.042382916512132, 16.515105363293856 ], [ 50.042354353577103, 16.515034480853146 ], [ 50.042332163250499, 16.514961352533984 ], [ 50.042316519000053, 16.514886550000028 ], [ 50.042303309770844, 16.514811912161342 ], [ 50.04229597281676 , 16.514736470397015], [ 50.042294553000033, 16.51466068600007 ], [ 50.042391183000063, 16.514647855000078 ], [ 50.042398004000063, 16.514712548000034 ]
 ];
 //Tribuna
 const polyCoords7 = [
-  [ 50.043120120000026, 16.516191934000062 ], 
-  [ 50.043111416000045, 16.516164859000071 ], 
-  [ 50.043032934000053, 16.515944518000026 ], 
-  [ 50.043046133000075, 16.515933873000051 ], 
-  [ 50.04309736700003 , 16.515889400000049], 
-  [ 50.043182384000033, 16.516134929000032 ], 
-  [ 50.043120120000026, 16.516191934000062 ]
+  [ 50.043120120000026, 16.516191934000062 ], [ 50.043111416000045, 16.516164859000071 ], [ 50.043032934000053, 16.515944518000026 ], [ 50.043046133000075, 16.515933873000051 ], [ 50.04309736700003 , 16.515889400000049], [ 50.043182384000033, 16.516134929000032 ], [ 50.043120120000026, 16.516191934000062 ]
 ];
 //Střelecké stavy
 const polyCoords8 = [
@@ -159,7 +95,6 @@ const polyCoords8 = [
 const polyCoords9 = [
   [  ]
 ];
-
 
 // Ubytovací marker ikona
 const ubytovaniIcon = L.icon({
@@ -182,7 +117,6 @@ const targetIcon = L.icon({
   iconAnchor: [15, 15]
 });
 const TG_SOURADNICE = [50.04292, 16.51672];
-
 
 // Přepínač podkladových vrstev – verze s obrázky
 const baseMaps = {
@@ -299,9 +233,7 @@ function pointOnLineAtDistance(latlngs, cumDistances, targetDist) {
   return interpolateLatLng(latlngs[i1], latlngs[i2], t);
 }
 
-
 // --- AREÁLOVÝ / CELOMAPOVÝ REŽIM ----------------------------------
-// Funkce pro aktivaci "areál" režimu (výchozí)
 function activateAreaMode() {
   fullMapMode = false;
 
@@ -311,67 +243,49 @@ if (podkladBounds) {
     originalMaxBounds = podkladBounds.pad(0.0);
     map.setMaxBounds(originalMaxBounds);
 
-    // zoom, který přesně zobrazí podklad
     const boundsZoom = map.getBoundsZoom(originalMaxBounds, true);
 
-    // chceme start na boundsZoom - 1 (víc oddálený)
     const startZoom = boundsZoom - 0.1;
 
-    // uživatel smí zoomovat jen DOVNITŘ → minZoom = startZoom
-    // uživatel NESMÍ zoomovat ven → minZoom = startZoom
     map.setMinZoom(startZoom);
 
-    // maximální přiblížení necháme volné (neomezené)
     map.setMaxZoom(20);
 
-    // nastavíme výchozí zoom
     map.setZoom(startZoom);
 }
 
-  // skryt control pokud existuje
   const ctrlEl = document.querySelector(".leaflet-control-layers");
   if (ctrlEl) ctrlEl.style.display = "none";
 
-  // obnov polygonové vrstvy
   polygonLayers.forEach(l => { if (l && !map.hasLayer(l)) map.addLayer(l); });
 
-  // obnovíme i liniové vrstvy, které jsme mohli v fullMap odstranit (kromě tras, které jsou ovládány checkboxes)
   const restoreNames = ['potok','silnice','cesty','cyklostezka','podchod','pesiny'];
   restoreNames.forEach(n => {
     if (linearLayers[n] && !map.hasLayer(linearLayers[n])) map.addLayer(linearLayers[n]);
   });
 
-  // obnov podklad pokud není
   if (podkladLayer && !map.hasLayer(podkladLayer)) map.addLayer(podkladLayer);
 }
 
-// Funkce pro aktivaci "full map" režimu
 function activateFullMapMode() {
   fullMapMode = true;
 
-  // zrušíme bounds -> volný pohyb
   map.setMaxBounds(null);
   map.setMinZoom(0);
 
-  // zobraz control pokud existuje
   const ctrlEl = document.querySelector(".leaflet-control-layers");
   if (ctrlEl) ctrlEl.style.display = "block";
 
-  // odstranit polygony
   polygonLayers.forEach(l => { if (l && map.hasLayer(l)) map.removeLayer(l); });
 
-  // odstranit podklad
   if (podkladLayer && map.hasLayer(podkladLayer)) map.removeLayer(podkladLayer);
 
-  // odstraníme jmenované liniové vrstvy (pokud existují)
   const toRemove = ['potok','silnice','cesty','cyklostezka','podchod','pesiny'];
   toRemove.forEach(name => {
     if (linearLayers[name] && map.hasLayer(linearLayers[name])) {
       map.removeLayer(linearLayers[name]);
     }
   });
-
-  // ponecháme okruh (linearLayers.okruh) a trasy (ovládají se checkboxes)
 }
 
 // --- Funkce pro návrat na areál (tl. Zpět na areál)
@@ -696,7 +610,6 @@ function hideElevationChart() {
 }
 
 //POPUP POLYGONY do mapy
-
 function createInteractivePolygon(coords, popupHtml) {
   const originalStyle = {
     color: '#035d57ff', 
@@ -744,7 +657,6 @@ const transparentPolygon7 = createInteractivePolygon(polyCoords7, "<h2>Tribuna</
 const transparentPolygon8 = createInteractivePolygon(polyCoords8, "<h2>Tribuna</h2><p>Popis této zóny.</p>");
 const transparentPolygon9 = createInteractivePolygon(polyCoords9, "<h2>Tribuna</h2><p>Popis této zóny.</p>");
 
-
 // --- Marker 
 L.marker(UB_SOURADNICE, { icon: ubytovaniIcon, pane: 'markerPane' })
   .addTo(map)
@@ -758,7 +670,7 @@ L.marker(PA_SOURADNICE, { icon: parkingIcon, pane: 'markerPane' })
 // --- Marker 
 L.marker(TG_SOURADNICE, { icon: targetIcon, pane: 'markerPane' })
   .addTo(map)
-  .bindPopup("<h2>Srřelnice</h2>");
+  .bindPopup("<h2>Střelnice</h2>");
 
 // Pole souřadnic pro více šipek
 const markersData = [
