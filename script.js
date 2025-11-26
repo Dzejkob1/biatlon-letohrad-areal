@@ -236,7 +236,7 @@ map.getPane('potokPane').style.pointerEvents = 'none';
 
 // --- URL vrstev
 const layerURLs = {
-  komplet: "https://raw.githubusercontent.com/Dzejkob1/biathlon-letohrad-interactive--map/main/data/layers/komplet_oprava.geojson",
+  komplet: "https://raw.githubusercontent.com/Dzejkob1/biatlon-letohrad-areal/main/layers/komplet_oprava.geojson",
   horni: "https://raw.githubusercontent.com/Dzejkob1/biathlon-letohrad-interactive--map/main/data/layers/horni_kolo_oprava.geojson",
   dolni: "https://raw.githubusercontent.com/Dzejkob1/biathlon-letohrad-interactive--map/main/data/layers/dolni_kolo_oprava.geojson",
   nove: "https://raw.githubusercontent.com/Dzejkob1/biathlon-letohrad-interactive--map/main/data/layers/nove_kolo_oprava.geojson",
